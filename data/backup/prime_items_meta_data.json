@@ -1,0 +1,4706 @@
+{
+  "frost_prime_set": {
+    "name": "Frost Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Frost_Prime",
+    "ducats": 175,
+    "vaulted": true
+  },
+  "hydroid_prime_set": {
+    "name": "Hydroid Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Hydroid_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "zephyr_prime_chassis_blueprint": {
+    "name": "Zephyr Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Zephyr_Prime",
+    "ducats": 25,
+    "vaulted": true
+  },
+  "redeemer_prime_blade": {
+    "name": "Redeemer Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Redeemer_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "akjagara_prime_receiver": {
+    "name": "Akjagara Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akjagara_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "zhuge_prime_grip": {
+    "name": "Zhuge Prime Grip",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Zhuge_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "wyrm_prime_blueprint": {
+    "name": "Wyrm Prime Blueprint",
+    "type": "sentinel",
+    "wiki_link": "https://wiki.warframe.com/w/Wyrm_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "orthos_prime_blade": {
+    "name": "Orthos Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Orthos_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "loki_prime_systems_blueprint": {
+    "name": "Loki Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Loki_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "odonata_prime_harness_blueprint": {
+    "name": "Odonata Prime Harness Blueprint",
+    "type": "other",
+    "wiki_link": "https://wiki.warframe.com/w/Odonata_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "odonata_prime_systems_blueprint": {
+    "name": "Odonata Prime Systems Blueprint",
+    "type": "other",
+    "wiki_link": "https://wiki.warframe.com/w/Odonata_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "hikou_prime_pouch": {
+    "name": "Hikou Prime Pouch",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Hikou_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "reaper_prime_blueprint": {
+    "name": "Reaper Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Reaper_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "rhino_prime_neuroptics_blueprint": {
+    "name": "Rhino Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Rhino_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "ballistica_prime_string": {
+    "name": "Ballistica Prime String",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Ballistica_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "vasto_prime_set": {
+    "name": "Vasto Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Vasto_Prime",
+    "ducats": 75,
+    "vaulted": true
+  },
+  "oberon_prime_neuroptics_blueprint": {
+    "name": "Oberon Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Oberon_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "volt_prime_neuroptics_blueprint": {
+    "name": "Volt Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Volt_Prime",
+    "ducats": 65,
+    "vaulted": false
+  },
+  "ballistica_prime_lower_limb": {
+    "name": "Ballistica Prime Lower Limb",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Ballistica_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "volt_prime_chassis_blueprint": {
+    "name": "Volt Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Volt_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "zhuge_prime_blueprint": {
+    "name": "Zhuge Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Zhuge_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "ninkondi_prime_chain": {
+    "name": "Ninkondi Prime Chain",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Ninkondi_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "zhuge_prime_receiver": {
+    "name": "Zhuge Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Zhuge_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "zhuge_prime_set": {
+    "name": "Zhuge Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Zhuge_Prime",
+    "ducats": 220,
+    "vaulted": true
+  },
+  "wukong_prime_neuroptics_blueprint": {
+    "name": "Wukong Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Wukong_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "ember_prime_neuroptics_blueprint": {
+    "name": "Ember Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Ember_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "nyx_prime_blueprint": {
+    "name": "Nyx Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nyx_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "nyx_prime_systems_blueprint": {
+    "name": "Nyx Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nyx_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "dual_kamas_prime_set": {
+    "name": "Dual Kamas Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Dual_Kamas_Prime",
+    "ducats": 305,
+    "vaulted": true
+  },
+  "nyx_prime_neuroptics_blueprint": {
+    "name": "Nyx Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nyx_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "rhino_prime_blueprint": {
+    "name": "Rhino Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Rhino_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "tigris_prime_receiver": {
+    "name": "Tigris Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tigris_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "helios_prime_carapace": {
+    "name": "Helios Prime Carapace",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Helios_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "wyrm_prime_systems": {
+    "name": "Wyrm Prime Systems",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Wyrm_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "trinity_prime_neuroptics_blueprint": {
+    "name": "Trinity Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Trinity_Prime",
+    "ducats": 25,
+    "vaulted": true
+  },
+  "fang_prime_handle": {
+    "name": "Fang Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Fang_Prime",
+    "ducats": 25,
+    "vaulted": false
+  },
+  "nyx_prime_chassis_blueprint": {
+    "name": "Nyx Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nyx_Prime",
+    "ducats": 65,
+    "vaulted": false
+  },
+  "loki_prime_chassis_blueprint": {
+    "name": "Loki Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Loki_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "mag_prime_chassis_blueprint": {
+    "name": "Mag Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Mag_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "nami_skyla_prime_handle": {
+    "name": "Nami Skyla Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Nami_Skyla_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "pyrana_prime_blueprint": {
+    "name": "Pyrana Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Pyrana_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "pyrana_prime_receiver": {
+    "name": "Pyrana Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Pyrana_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "pyrana_prime_barrel": {
+    "name": "Pyrana Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Pyrana_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "destreza_prime_set": {
+    "name": "Destreza Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Destreza_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "loki_prime_neuroptics_blueprint": {
+    "name": "Loki Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Loki_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "ankyros_prime_blade": {
+    "name": "Ankyros Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Ankyros_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "ankyros_prime_gauntlet": {
+    "name": "Ankyros Prime Gauntlet",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Ankyros_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "bo_prime_blueprint": {
+    "name": "Bo Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Bo_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "silva_and_aegis_prime_guard": {
+    "name": "Silva & Aegis Prime Guard",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Silva_%26_Aegis_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "tigris_prime_stock": {
+    "name": "Tigris Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tigris_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "ash_prime_neuroptics_blueprint": {
+    "name": "Ash Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Ash_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "vectis_prime_stock": {
+    "name": "Vectis Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Vectis_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "bo_prime_handle": {
+    "name": "Bo Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Bo_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "carrier_prime_blueprint": {
+    "name": "Carrier Prime Blueprint",
+    "type": "sentinel",
+    "wiki_link": "https://wiki.warframe.com/w/Carrier_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "vectis_prime_barrel": {
+    "name": "Vectis Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Vectis_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "soma_prime_blueprint": {
+    "name": "Soma Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Soma_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "vasto_prime_barrel": {
+    "name": "Vasto Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Vasto_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "vasto_prime_blueprint": {
+    "name": "Vasto Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Vasto_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "saryn_prime_set": {
+    "name": "Saryn Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Saryn_Prime",
+    "ducats": 225,
+    "vaulted": true
+  },
+  "tipedo_prime_handle": {
+    "name": "Tipedo Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tipedo_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "stradavar_prime_set": {
+    "name": "Stradavar Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Stradavar_Prime",
+    "ducats": 175,
+    "vaulted": true
+  },
+  "equinox_prime_blueprint": {
+    "name": "Equinox Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Equinox_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "bronco_prime_barrel": {
+    "name": "Bronco Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Bronco_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "nova_prime_systems_blueprint": {
+    "name": "Nova Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nova_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "frost_prime_blueprint": {
+    "name": "Frost Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Frost_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "bronco_prime_blueprint": {
+    "name": "Bronco Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Bronco_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "burston_prime_receiver": {
+    "name": "Burston Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Burston_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "fang_prime_blade": {
+    "name": "Fang Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Fang_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "vauban_prime_neuroptics_blueprint": {
+    "name": "Vauban Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Vauban_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "hikou_prime_stars": {
+    "name": "Hikou Prime Stars",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Hikou_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "nova_prime_neuroptics_blueprint": {
+    "name": "Nova Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nova_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "nova_prime_chassis_blueprint": {
+    "name": "Nova Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nova_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "nova_prime_blueprint": {
+    "name": "Nova Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nova_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "frost_prime_neuroptics_blueprint": {
+    "name": "Frost Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Frost_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "trinity_prime_blueprint": {
+    "name": "Trinity Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Trinity_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "sybaris_prime_barrel": {
+    "name": "Sybaris Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Sybaris_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "banshee_prime_chassis_blueprint": {
+    "name": "Banshee Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Banshee_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "wukong_prime_chassis_blueprint": {
+    "name": "Wukong Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Wukong_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "helios_prime_set": {
+    "name": "Helios Prime Set",
+    "type": "sentinel",
+    "wiki_link": "https://wiki.warframe.com/w/Helios_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "hydroid_prime_neuroptics_blueprint": {
+    "name": "Hydroid Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Hydroid_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "silva_and_aegis_prime_set": {
+    "name": "Silva & Aegis Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Silva_%26_Aegis_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "kavasa_prime_kubrow_collar_set": {
+    "name": "Kavasa Prime Kubrow Collar Set",
+    "type": "other",
+    "wiki_link": "https://wiki.warframe.com/w/Kavasa_Prime_Kubrow_Collar",
+    "ducats": 155,
+    "vaulted": true
+  },
+  "latron_prime_set": {
+    "name": "Latron Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Latron_Prime",
+    "ducats": 60,
+    "vaulted": true
+  },
+  "lex_prime_set": {
+    "name": "Lex Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Lex_Prime",
+    "ducats": 55,
+    "vaulted": true
+  },
+  "odonata_prime_set": {
+    "name": "Odonata Prime Set",
+    "type": "other",
+    "wiki_link": "https://wiki.warframe.com/w/Odonata_Prime",
+    "ducats": 140,
+    "vaulted": true
+  },
+  "destreza_prime_handle": {
+    "name": "Destreza Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Destreza_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "vectis_prime_set": {
+    "name": "Vectis Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Vectis_Prime",
+    "ducats": 225,
+    "vaulted": true
+  },
+  "rhino_prime_set": {
+    "name": "Rhino Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Rhino_Prime",
+    "ducats": 225,
+    "vaulted": true
+  },
+  "sicarus_prime_set": {
+    "name": "Sicarus Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Sicarus_Prime",
+    "ducats": 130,
+    "vaulted": true
+  },
+  "boltor_prime_receiver": {
+    "name": "Boltor Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Boltor_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "boltor_prime_stock": {
+    "name": "Boltor Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Boltor_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "tigris_prime_barrel": {
+    "name": "Tigris Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tigris_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "soma_prime_receiver": {
+    "name": "Soma Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Soma_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "soma_prime_stock": {
+    "name": "Soma Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Soma_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "braton_prime_set": {
+    "name": "Braton Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Braton_Prime",
+    "ducats": 110,
+    "vaulted": true
+  },
+  "silva_and_aegis_prime_hilt": {
+    "name": "Silva & Aegis Prime Hilt",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Silva_%26_Aegis_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "hydroid_prime_chassis_blueprint": {
+    "name": "Hydroid Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Hydroid_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "aklex_prime_blueprint": {
+    "name": "Aklex Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Aklex_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "aklex_prime_set": {
+    "name": "Aklex Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Aklex_Prime",
+    "ducats": 145,
+    "vaulted": true
+  },
+  "ballistica_prime_blueprint": {
+    "name": "Ballistica Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Ballistica_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "ninkondi_prime_blueprint": {
+    "name": "Ninkondi Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Ninkondi_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "zhuge_prime_barrel": {
+    "name": "Zhuge Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Zhuge_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "ninkondi_prime_handle": {
+    "name": "Ninkondi Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Ninkondi_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "ninkondi_prime_set": {
+    "name": "Ninkondi Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Ninkondi_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "wukong_prime_set": {
+    "name": "Wukong Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Wukong_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "scindo_prime_handle": {
+    "name": "Scindo Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Scindo_Prime",
+    "ducats": 25,
+    "vaulted": false
+  },
+  "rubico_prime_barrel": {
+    "name": "Rubico Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Rubico_Prime",
+    "ducats": 25,
+    "vaulted": true
+  },
+  "loki_prime_blueprint": {
+    "name": "Loki Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Loki_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "dual_kamas_prime_blueprint": {
+    "name": "Dual Kamas Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Dual_Kamas_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "latron_prime_barrel": {
+    "name": "Latron Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Latron_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "ember_prime_set": {
+    "name": "Ember Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Ember_Prime",
+    "ducats": 175,
+    "vaulted": true
+  },
+  "fang_prime_set": {
+    "name": "Fang Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Fang_Prime",
+    "ducats": 95,
+    "vaulted": true
+  },
+  "mag_prime_set": {
+    "name": "Mag Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Mag_Prime",
+    "ducats": 175,
+    "vaulted": true
+  },
+  "nekros_prime_neuroptics_blueprint": {
+    "name": "Nekros Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nekros_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "euphona_prime_set": {
+    "name": "Euphona Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Euphona_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "boar_prime_blueprint": {
+    "name": "Boar Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Boar_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "oberon_prime_set": {
+    "name": "Oberon Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Oberon_Prime",
+    "ducats": 225,
+    "vaulted": true
+  },
+  "tiberon_prime_blueprint": {
+    "name": "Tiberon Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tiberon_Prime",
+    "ducats": 25,
+    "vaulted": true
+  },
+  "saryn_prime_blueprint": {
+    "name": "Saryn Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Saryn_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "bo_prime_set": {
+    "name": "Bo Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Bo_Prime",
+    "ducats": 90,
+    "vaulted": true
+  },
+  "boar_prime_set": {
+    "name": "Boar Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Boar_Prime",
+    "ducats": 175,
+    "vaulted": true
+  },
+  "ballistica_prime_receiver": {
+    "name": "Ballistica Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Ballistica_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "boltor_prime_set": {
+    "name": "Boltor Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Boltor_Prime",
+    "ducats": 175,
+    "vaulted": true
+  },
+  "kogake_prime_set": {
+    "name": "Kogake Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Kogake_Prime",
+    "ducats": 275,
+    "vaulted": true
+  },
+  "kogake_prime_gauntlet": {
+    "name": "Kogake Prime Gauntlet",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Kogake_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "zephyr_prime_blueprint": {
+    "name": "Zephyr Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Zephyr_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "valkyr_prime_neuroptics_blueprint": {
+    "name": "Valkyr Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Valkyr_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "venka_prime_blueprint": {
+    "name": "Venka Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Venka_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "euphona_prime_blueprint": {
+    "name": "Euphona Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Euphona_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "dual_kamas_prime_handle": {
+    "name": "Dual Kamas Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Dual_Kamas_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "kavasa_prime_buckle": {
+    "name": "Kavasa Prime Buckle",
+    "type": "other",
+    "wiki_link": "https://wiki.warframe.com/w/Kavasa_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "kavasa_prime_band": {
+    "name": "Kavasa Prime Band",
+    "type": "other",
+    "wiki_link": "https://wiki.warframe.com/w/Kavasa_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "akvasto_prime_set": {
+    "name": "Akvasto Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akvasto_Prime",
+    "ducats": 145,
+    "vaulted": true
+  },
+  "akbronco_prime_link": {
+    "name": "Akbronco Prime Link",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akbronco_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "dakra_prime_handle": {
+    "name": "Dakra Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Dakra_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "soma_prime_barrel": {
+    "name": "Soma Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Soma_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "mag_prime_neuroptics_blueprint": {
+    "name": "Mag Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Mag_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "ash_prime_chassis_blueprint": {
+    "name": "Ash Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Ash_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "tigris_prime_blueprint": {
+    "name": "Tigris Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tigris_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "ash_prime_systems_blueprint": {
+    "name": "Ash Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Ash_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "mag_prime_systems_blueprint": {
+    "name": "Mag Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Mag_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "vectis_prime_receiver": {
+    "name": "Vectis Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Vectis_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "bo_prime_ornament": {
+    "name": "Bo Prime Ornament",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Bo_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "ankyros_prime_set": {
+    "name": "Ankyros Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Ankyros_Prime",
+    "ducats": 175,
+    "vaulted": true
+  },
+  "wyrm_prime_carapace": {
+    "name": "Wyrm Prime Carapace",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Wyrm_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "paris_prime_set": {
+    "name": "Paris Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Paris_Prime",
+    "ducats": 115,
+    "vaulted": true
+  },
+  "trinity_prime_set": {
+    "name": "Trinity Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Trinity_Prime",
+    "ducats": 130,
+    "vaulted": true
+  },
+  "sybaris_prime_blueprint": {
+    "name": "Sybaris Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Sybaris_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "ballistica_prime_set": {
+    "name": "Ballistica Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Ballistica_Prime",
+    "ducats": 250,
+    "vaulted": true
+  },
+  "wukong_prime_blueprint": {
+    "name": "Wukong Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Wukong_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "wukong_prime_systems_blueprint": {
+    "name": "Wukong Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Wukong_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "zhuge_prime_string": {
+    "name": "Zhuge Prime String",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Zhuge_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "destreza_prime_blade": {
+    "name": "Destreza Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Destreza_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "aklex_prime_link": {
+    "name": "Aklex Prime Link",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Aklex_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "banshee_prime_systems_blueprint": {
+    "name": "Banshee Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Banshee_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "hydroid_prime_blueprint": {
+    "name": "Hydroid Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Hydroid_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "equinox_prime_systems_blueprint": {
+    "name": "Equinox Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Equinox_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "paris_prime_blueprint": {
+    "name": "Paris Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Paris_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "akvasto_prime_blueprint": {
+    "name": "Akvasto Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akvasto_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "akvasto_prime_link": {
+    "name": "Akvasto Prime Link",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akvasto_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "venka_prime_set": {
+    "name": "Venka Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Venka_Prime",
+    "ducats": 275,
+    "vaulted": true
+  },
+  "orthos_prime_blueprint": {
+    "name": "Orthos Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Orthos_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "paris_prime_grip": {
+    "name": "Paris Prime Grip",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Paris_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "mesa_prime_blueprint": {
+    "name": "Mesa Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Mesa_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "equinox_prime_neuroptics_blueprint": {
+    "name": "Equinox Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Equinox_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "redeemer_prime_blueprint": {
+    "name": "Redeemer Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Redeemer_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "tipedo_prime_blueprint": {
+    "name": "Tipedo Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tipedo_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "bronco_prime_receiver": {
+    "name": "Bronco Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Bronco_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "burston_prime_blueprint": {
+    "name": "Burston Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Burston_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "burston_prime_stock": {
+    "name": "Burston Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Burston_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "hikou_prime_blueprint": {
+    "name": "Hikou Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Hikou_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "volt_prime_blueprint": {
+    "name": "Volt Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Volt_Prime",
+    "ducats": 25,
+    "vaulted": false
+  },
+  "ember_prime_chassis_blueprint": {
+    "name": "Ember Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Ember_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "rhino_prime_chassis_blueprint": {
+    "name": "Rhino Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Rhino_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "akbronco_prime_set": {
+    "name": "Akbronco Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akbronco_Prime",
+    "ducats": 60,
+    "vaulted": true
+  },
+  "carrier_prime_set": {
+    "name": "Carrier Prime Set",
+    "type": "sentinel",
+    "wiki_link": "https://wiki.warframe.com/w/Carrier_Prime",
+    "ducats": 110,
+    "vaulted": true
+  },
+  "dakra_prime_set": {
+    "name": "Dakra Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Dakra_Prime",
+    "ducats": 125,
+    "vaulted": true
+  },
+  "nekros_prime_chassis_blueprint": {
+    "name": "Nekros Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nekros_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "atlas_prime_chassis_blueprint": {
+    "name": "Atlas Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Atlas_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "dethcube_prime_carapace": {
+    "name": "Dethcube Prime Carapace",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Dethcube_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "dethcube_prime_cerebrum": {
+    "name": "Dethcube Prime Cerebrum",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Dethcube_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "tekko_prime_gauntlet": {
+    "name": "Tekko Prime Gauntlet",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tekko_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "dethcube_prime_blueprint": {
+    "name": "Dethcube Prime Blueprint",
+    "type": "sentinel",
+    "wiki_link": "https://wiki.warframe.com/w/Dethcube_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "dethcube_prime_set": {
+    "name": "Dethcube Prime Set",
+    "type": "sentinel",
+    "wiki_link": "https://wiki.warframe.com/w/Dethcube_Prime",
+    "ducats": 225,
+    "vaulted": true
+  },
+  "limbo_prime_systems_blueprint": {
+    "name": "Limbo Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Limbo_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "ivara_prime_neuroptics_blueprint": {
+    "name": "Ivara Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Ivara_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "ivara_prime_chassis_blueprint": {
+    "name": "Ivara Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Ivara_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "ivara_prime_systems_blueprint": {
+    "name": "Ivara Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Ivara_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "baza_prime_blueprint": {
+    "name": "Baza Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Baza_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "baza_prime_set": {
+    "name": "Baza Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Baza_Prime",
+    "ducats": 225,
+    "vaulted": true
+  },
+  "aksomati_prime_set": {
+    "name": "Aksomati Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Aksomati_Prime",
+    "ducats": 235,
+    "vaulted": true
+  },
+  "aksomati_prime_link": {
+    "name": "Aksomati Prime Link",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Aksomati_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "baza_prime_stock": {
+    "name": "Baza Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Baza_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "aksomati_prime_receiver": {
+    "name": "Aksomati Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Aksomati_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "gram_prime_handle": {
+    "name": "Gram Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Gram_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "helios_prime_blueprint": {
+    "name": "Helios Prime Blueprint",
+    "type": "sentinel",
+    "wiki_link": "https://wiki.warframe.com/w/Helios_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "vasto_prime_receiver": {
+    "name": "Vasto Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Vasto_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "tipedo_prime_ornament": {
+    "name": "Tipedo Prime Ornament",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tipedo_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "stradavar_prime_receiver": {
+    "name": "Stradavar Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Stradavar_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "wyrm_prime_cerebrum": {
+    "name": "Wyrm Prime Cerebrum",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Wyrm_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "lex_prime_blueprint": {
+    "name": "Lex Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Lex_Prime",
+    "ducats": 25,
+    "vaulted": false
+  },
+  "hikou_prime_set": {
+    "name": "Hikou Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Hikou_Prime",
+    "ducats": 75,
+    "vaulted": true
+  },
+  "orthos_prime_handle": {
+    "name": "Orthos Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Orthos_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "reaper_prime_blade": {
+    "name": "Reaper Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Reaper_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "scindo_prime_blueprint": {
+    "name": "Scindo Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Scindo_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "ember_prime_systems_blueprint": {
+    "name": "Ember Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Ember_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "frost_prime_chassis_blueprint": {
+    "name": "Frost Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Frost_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "rhino_prime_systems_blueprint": {
+    "name": "Rhino Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Rhino_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "ember_prime_blueprint": {
+    "name": "Ember Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Ember_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "ash_prime_blueprint": {
+    "name": "Ash Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Ash_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "kavasa_prime_kubrow_collar_blueprint": {
+    "name": "Kavasa Prime Kubrow Collar Blueprint",
+    "type": "other",
+    "wiki_link": "https://wiki.warframe.com/w/Kavasa_Prime_Kubrow_Collar",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "reaper_prime_set": {
+    "name": "Reaper Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Reaper_Prime",
+    "ducats": 75,
+    "vaulted": true
+  },
+  "vauban_prime_blueprint": {
+    "name": "Vauban Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Vauban_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "carrier_prime_carapace": {
+    "name": "Carrier Prime Carapace",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Carrier_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "ankyros_prime_blueprint": {
+    "name": "Ankyros Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Ankyros_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "boar_prime_barrel": {
+    "name": "Boar Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Boar_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "oberon_prime_chassis_blueprint": {
+    "name": "Oberon Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Oberon_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "silva_and_aegis_prime_blade": {
+    "name": "Silva & Aegis Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Silva_%26_Aegis_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "boltor_prime_blueprint": {
+    "name": "Boltor Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Boltor_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "sybaris_prime_set": {
+    "name": "Sybaris Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Sybaris_Prime",
+    "ducats": 175,
+    "vaulted": true
+  },
+  "oberon_prime_systems_blueprint": {
+    "name": "Oberon Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Oberon_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "baza_prime_receiver": {
+    "name": "Baza Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Baza_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "redeemer_prime_set": {
+    "name": "Redeemer Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Redeemer_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "galatine_prime_blueprint": {
+    "name": "Galatine Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Galatine_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "orthos_prime_set": {
+    "name": "Orthos Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Orthos_Prime",
+    "ducats": 150,
+    "vaulted": true
+  },
+  "volt_prime_set": {
+    "name": "Volt Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Volt_Prime",
+    "ducats": 180,
+    "vaulted": true
+  },
+  "banshee_prime_neuroptics_blueprint": {
+    "name": "Banshee Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Banshee_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "reaper_prime_handle": {
+    "name": "Reaper Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Reaper_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "sicarus_prime_barrel": {
+    "name": "Sicarus Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Sicarus_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "braton_prime_barrel": {
+    "name": "Braton Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Braton_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "tigris_prime_set": {
+    "name": "Tigris Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tigris_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "paris_prime_string": {
+    "name": "Paris Prime String",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Paris_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "sicarus_prime_receiver": {
+    "name": "Sicarus Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Sicarus_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "glaive_prime_blade": {
+    "name": "Glaive Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Glaive_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "fragor_prime_set": {
+    "name": "Fragor Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Fragor_Prime",
+    "ducats": 145,
+    "vaulted": true
+  },
+  "akstiletto_prime_blueprint": {
+    "name": "Akstiletto Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akstiletto_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "akstiletto_prime_barrel": {
+    "name": "Akstiletto Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akstiletto_Prime",
+    "ducats": 25,
+    "vaulted": true
+  },
+  "akstiletto_prime_receiver": {
+    "name": "Akstiletto Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akstiletto_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "akbolto_prime_receiver": {
+    "name": "Akbolto Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akbolto_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "paris_prime_upper_limb": {
+    "name": "Paris Prime Upper Limb",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Paris_Prime",
+    "ducats": 25,
+    "vaulted": false
+  },
+  "akbolto_prime_blueprint": {
+    "name": "Akbolto Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akbolto_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "silva_and_aegis_prime_blueprint": {
+    "name": "Silva & Aegis Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Silva_%26_Aegis_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "scindo_prime_blade": {
+    "name": "Scindo Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Scindo_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "euphona_prime_barrel": {
+    "name": "Euphona Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Euphona_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "mag_prime_blueprint": {
+    "name": "Mag Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Mag_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "frost_prime_systems_blueprint": {
+    "name": "Frost Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Frost_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "helios_prime_cerebrum": {
+    "name": "Helios Prime Cerebrum",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Helios_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "paris_prime_lower_limb": {
+    "name": "Paris Prime Lower Limb",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Paris_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "equinox_prime_chassis_blueprint": {
+    "name": "Equinox Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Equinox_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "stradavar_prime_blueprint": {
+    "name": "Stradavar Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Stradavar_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "titania_prime_neuroptics_blueprint": {
+    "name": "Titania Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Titania_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "pangolin_prime_blade": {
+    "name": "Pangolin Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Pangolin_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "pangolin_prime_set": {
+    "name": "Pangolin Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Pangolin_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "titania_prime_blueprint": {
+    "name": "Titania Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Titania_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "titania_prime_set": {
+    "name": "Titania Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Titania_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "banshee_prime_blueprint": {
+    "name": "Banshee Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Banshee_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "valkyr_prime_chassis_blueprint": {
+    "name": "Valkyr Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Valkyr_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "cernos_prime_blueprint": {
+    "name": "Cernos Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Cernos_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "cernos_prime_lower_limb": {
+    "name": "Cernos Prime Lower Limb",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Cernos_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "cernos_prime_upper_limb": {
+    "name": "Cernos Prime Upper Limb",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Cernos_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "cernos_prime_grip": {
+    "name": "Cernos Prime Grip",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Cernos_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "wyrm_prime_set": {
+    "name": "Wyrm Prime Set",
+    "type": "sentinel",
+    "wiki_link": "https://wiki.warframe.com/w/Wyrm_Prime",
+    "ducats": 90,
+    "vaulted": true
+  },
+  "burston_prime_barrel": {
+    "name": "Burston Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Burston_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "volt_prime_systems_blueprint": {
+    "name": "Volt Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Volt_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "dakra_prime_blade": {
+    "name": "Dakra Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Dakra_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "glaive_prime_disc": {
+    "name": "Glaive Prime Disc",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Glaive_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "hydroid_prime_systems_blueprint": {
+    "name": "Hydroid Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Hydroid_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "glaive_prime_set": {
+    "name": "Glaive Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Glaive_Prime",
+    "ducats": 235,
+    "vaulted": true
+  },
+  "scindo_prime_set": {
+    "name": "Scindo Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Scindo_Prime",
+    "ducats": 170,
+    "vaulted": true
+  },
+  "latron_prime_receiver": {
+    "name": "Latron Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Latron_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "latron_prime_stock": {
+    "name": "Latron Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Latron_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "lex_prime_barrel": {
+    "name": "Lex Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Lex_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "sybaris_prime_receiver": {
+    "name": "Sybaris Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Sybaris_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "akstiletto_prime_set": {
+    "name": "Akstiletto Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akstiletto_Prime",
+    "ducats": 285,
+    "vaulted": true
+  },
+  "inaros_prime_set": {
+    "name": "Inaros Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Inaros_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "inaros_prime_chassis_blueprint": {
+    "name": "Inaros Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Inaros_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "inaros_prime_neuroptics_blueprint": {
+    "name": "Inaros Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Inaros_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "inaros_prime_blueprint": {
+    "name": "Inaros Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Inaros_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "inaros_prime_systems_blueprint": {
+    "name": "Inaros Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Inaros_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "panthera_prime_stock": {
+    "name": "Panthera Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Panthera_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "karyst_prime_handle": {
+    "name": "Karyst Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Karyst_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "karyst_prime_set": {
+    "name": "Karyst Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Karyst_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "panthera_prime_set": {
+    "name": "Panthera Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Panthera_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "panthera_prime_barrel": {
+    "name": "Panthera Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Panthera_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "panthera_prime_receiver": {
+    "name": "Panthera Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Panthera_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "panthera_prime_blueprint": {
+    "name": "Panthera Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Panthera_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "karyst_prime_blueprint": {
+    "name": "Karyst Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Karyst_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "karyst_prime_blade": {
+    "name": "Karyst Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Karyst_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "braton_prime_stock": {
+    "name": "Braton Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Braton_Prime",
+    "ducats": 25,
+    "vaulted": false
+  },
+  "dakra_prime_blueprint": {
+    "name": "Dakra Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Dakra_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "glaive_prime_blueprint": {
+    "name": "Glaive Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Glaive_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "akstiletto_prime_link": {
+    "name": "Akstiletto Prime Link",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akstiletto_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "oberon_prime_blueprint": {
+    "name": "Oberon Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Oberon_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "cernos_prime_string": {
+    "name": "Cernos Prime String",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Cernos_Prime",
+    "ducats": 25,
+    "vaulted": false
+  },
+  "cernos_prime_set": {
+    "name": "Cernos Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Cernos_Prime",
+    "ducats": 200,
+    "vaulted": true
+  },
+  "valkyr_prime_blueprint": {
+    "name": "Valkyr Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Valkyr_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "valkyr_prime_set": {
+    "name": "Valkyr Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Valkyr_Prime",
+    "ducats": 225,
+    "vaulted": true
+  },
+  "venka_prime_blades": {
+    "name": "Venka Prime Blades",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Venka_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "odonata_prime_blueprint": {
+    "name": "Odonata Prime Blueprint",
+    "type": "other",
+    "wiki_link": "https://wiki.warframe.com/w/Odonata_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "saryn_prime_neuroptics_blueprint": {
+    "name": "Saryn Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Saryn_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "nami_skyla_prime_blade": {
+    "name": "Nami Skyla Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Nami_Skyla_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "kronen_prime_handle": {
+    "name": "Kronen Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Kronen_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "boar_prime_receiver": {
+    "name": "Boar Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Boar_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "boar_prime_stock": {
+    "name": "Boar Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Boar_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "kogake_prime_boot": {
+    "name": "Kogake Prime Boot",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Kogake_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "akbolto_prime_set": {
+    "name": "Akbolto Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akbolto_Prime",
+    "ducats": 350,
+    "vaulted": true
+  },
+  "akbolto_prime_link": {
+    "name": "Akbolto Prime Link",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akbolto_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "akbolto_prime_barrel": {
+    "name": "Akbolto Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akbolto_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "limbo_prime_set": {
+    "name": "Limbo Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Limbo_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "sicarus_prime_blueprint": {
+    "name": "Sicarus Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Sicarus_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "fang_prime_blueprint": {
+    "name": "Fang Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Fang_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "vauban_prime_chassis_blueprint": {
+    "name": "Vauban Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Vauban_Prime",
+    "ducats": 25,
+    "vaulted": true
+  },
+  "latron_prime_blueprint": {
+    "name": "Latron Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Latron_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "braton_prime_blueprint": {
+    "name": "Braton Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Braton_Prime",
+    "ducats": 25,
+    "vaulted": false
+  },
+  "nikana_prime_hilt": {
+    "name": "Nikana Prime Hilt",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Nikana_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "nikana_prime_set": {
+    "name": "Nikana Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Nikana_Prime",
+    "ducats": 190,
+    "vaulted": true
+  },
+  "valkyr_prime_systems_blueprint": {
+    "name": "Valkyr Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Valkyr_Prime",
+    "ducats": 65,
+    "vaulted": false
+  },
+  "venka_prime_gauntlet": {
+    "name": "Venka Prime Gauntlet",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Venka_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "akbronco_prime_blueprint": {
+    "name": "Akbronco Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akbronco_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "euphona_prime_receiver": {
+    "name": "Euphona Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Euphona_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "carrier_prime_systems": {
+    "name": "Carrier Prime Systems",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Carrier_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "spira_prime_blueprint": {
+    "name": "Spira Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Spira_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "spira_prime_set": {
+    "name": "Spira Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Spira_Prime",
+    "ducats": 345,
+    "vaulted": true
+  },
+  "nami_skyla_prime_set": {
+    "name": "Nami Skyla Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Nami_Skyla_Prime",
+    "ducats": 305,
+    "vaulted": true
+  },
+  "kronen_prime_set": {
+    "name": "Kronen Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Kronen_Prime",
+    "ducats": 305,
+    "vaulted": true
+  },
+  "helios_prime_systems": {
+    "name": "Helios Prime Systems",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Helios_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "tiberon_prime_set": {
+    "name": "Tiberon Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tiberon_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "mirage_prime_systems_blueprint": {
+    "name": "Mirage Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Mirage_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "mirage_prime_blueprint": {
+    "name": "Mirage Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Mirage_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "fragor_prime_head": {
+    "name": "Fragor Prime Head",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Fragor_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "tipedo_prime_set": {
+    "name": "Tipedo Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tipedo_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "vectis_prime_blueprint": {
+    "name": "Vectis Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Vectis_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "atlas_prime_set": {
+    "name": "Atlas Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Atlas_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "tekko_prime_blade": {
+    "name": "Tekko Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tekko_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "tekko_prime_set": {
+    "name": "Tekko Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tekko_Prime",
+    "ducats": 275,
+    "vaulted": true
+  },
+  "tekko_prime_blueprint": {
+    "name": "Tekko Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tekko_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "nezha_prime_blueprint": {
+    "name": "Nezha Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nezha_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "guandao_prime_blueprint": {
+    "name": "Guandao Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Guandao_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "mirage_prime_chassis_blueprint": {
+    "name": "Mirage Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Mirage_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "kogake_prime_blueprint": {
+    "name": "Kogake Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Kogake_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "sybaris_prime_stock": {
+    "name": "Sybaris Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Sybaris_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "chroma_prime_set": {
+    "name": "Chroma Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Chroma_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "rubico_prime_set": {
+    "name": "Rubico Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Rubico_Prime",
+    "ducats": 185,
+    "vaulted": true
+  },
+  "gram_prime_blueprint": {
+    "name": "Gram Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Gram_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "spira_prime_pouch": {
+    "name": "Spira Prime Pouch",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Spira_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "banshee_prime_set": {
+    "name": "Banshee Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Banshee_Prime",
+    "ducats": 225,
+    "vaulted": true
+  },
+  "vauban_prime_set": {
+    "name": "Vauban Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Vauban_Prime",
+    "ducats": 290,
+    "vaulted": true
+  },
+  "fragor_prime_blueprint": {
+    "name": "Fragor Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Fragor_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "fragor_prime_handle": {
+    "name": "Fragor Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Fragor_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "vauban_prime_systems_blueprint": {
+    "name": "Vauban Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Vauban_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "carrier_prime_cerebrum": {
+    "name": "Carrier Prime Cerebrum",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Carrier_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "burston_prime_set": {
+    "name": "Burston Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Burston_Prime",
+    "ducats": 90,
+    "vaulted": true
+  },
+  "loki_prime_set": {
+    "name": "Loki Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Loki_Prime",
+    "ducats": 175,
+    "vaulted": true
+  },
+  "nova_prime_set": {
+    "name": "Nova Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nova_Prime",
+    "ducats": 175,
+    "vaulted": true
+  },
+  "nyx_prime_set": {
+    "name": "Nyx Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nyx_Prime",
+    "ducats": 225,
+    "vaulted": true
+  },
+  "soma_prime_set": {
+    "name": "Soma Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Soma_Prime",
+    "ducats": 175,
+    "vaulted": true
+  },
+  "saryn_prime_chassis_blueprint": {
+    "name": "Saryn Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Saryn_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "tiberon_prime_receiver": {
+    "name": "Tiberon Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tiberon_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "boltor_prime_barrel": {
+    "name": "Boltor Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Boltor_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "braton_prime_receiver": {
+    "name": "Braton Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Braton_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "saryn_prime_systems_blueprint": {
+    "name": "Saryn Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Saryn_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "nikana_prime_blueprint": {
+    "name": "Nikana Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Nikana_Prime",
+    "ducats": 25,
+    "vaulted": true
+  },
+  "nikana_prime_blade": {
+    "name": "Nikana Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Nikana_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "zephyr_prime_neuroptics_blueprint": {
+    "name": "Zephyr Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Zephyr_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "zephyr_prime_set": {
+    "name": "Zephyr Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Zephyr_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "kronen_prime_blueprint": {
+    "name": "Kronen Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Kronen_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "tiberon_prime_barrel": {
+    "name": "Tiberon Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tiberon_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "kronen_prime_blade": {
+    "name": "Kronen Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Kronen_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "ivara_prime_set": {
+    "name": "Ivara Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Ivara_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "mirage_prime_neuroptics_blueprint": {
+    "name": "Mirage Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Mirage_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "ballistica_prime_upper_limb": {
+    "name": "Ballistica Prime Upper Limb",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Ballistica_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "nami_skyla_prime_blueprint": {
+    "name": "Nami Skyla Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Nami_Skyla_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "akjagara_prime_set": {
+    "name": "Akjagara Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akjagara_Prime",
+    "ducats": 350,
+    "vaulted": true
+  },
+  "akjagara_prime_link": {
+    "name": "Akjagara Prime Link",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akjagara_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "stradavar_prime_barrel": {
+    "name": "Stradavar Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Stradavar_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "stradavar_prime_stock": {
+    "name": "Stradavar Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Stradavar_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "odonata_prime_wings_blueprint": {
+    "name": "Odonata Prime Wings Blueprint",
+    "type": "other",
+    "wiki_link": "https://wiki.warframe.com/w/Odonata_Prime",
+    "ducats": 65,
+    "vaulted": false
+  },
+  "tiberon_prime_stock": {
+    "name": "Tiberon Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tiberon_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "mirage_prime_set": {
+    "name": "Mirage Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Mirage_Prime",
+    "ducats": 175,
+    "vaulted": true
+  },
+  "akjagara_prime_barrel": {
+    "name": "Akjagara Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akjagara_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "rubico_prime_receiver": {
+    "name": "Rubico Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Rubico_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "galatine_prime_blade": {
+    "name": "Galatine Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Galatine_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "gram_prime_set": {
+    "name": "Gram Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Gram_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "rubico_prime_stock": {
+    "name": "Rubico Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Rubico_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "nekros_prime_blueprint": {
+    "name": "Nekros Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nekros_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "trinity_prime_systems_blueprint": {
+    "name": "Trinity Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Trinity_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "titania_prime_chassis_blueprint": {
+    "name": "Titania Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Titania_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "corinth_prime_stock": {
+    "name": "Corinth Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Corinth_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "corinth_prime_blueprint": {
+    "name": "Corinth Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Corinth_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "titania_prime_systems_blueprint": {
+    "name": "Titania Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Titania_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "atlas_prime_systems_blueprint": {
+    "name": "Atlas Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Atlas_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "atlas_prime_neuroptics_blueprint": {
+    "name": "Atlas Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Atlas_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "atlas_prime_blueprint": {
+    "name": "Atlas Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Atlas_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "dethcube_prime_systems": {
+    "name": "Dethcube Prime Systems",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Dethcube_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "pyrana_prime_set": {
+    "name": "Pyrana Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Pyrana_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "limbo_prime_blueprint": {
+    "name": "Limbo Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Limbo_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "destreza_prime_blueprint": {
+    "name": "Destreza Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Destreza_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "gram_prime_blade": {
+    "name": "Gram Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Gram_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "limbo_prime_chassis_blueprint": {
+    "name": "Limbo Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Limbo_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "spira_prime_blade": {
+    "name": "Spira Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Spira_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "lex_prime_receiver": {
+    "name": "Lex Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Lex_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "mesa_prime_neuroptics_blueprint": {
+    "name": "Mesa Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Mesa_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "redeemer_prime_handle": {
+    "name": "Redeemer Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Redeemer_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "equinox_prime_set": {
+    "name": "Equinox Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Equinox_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "guandao_prime_set": {
+    "name": "Guandao Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Guandao_Prime",
+    "ducats": 175,
+    "vaulted": true
+  },
+  "zakti_prime_set": {
+    "name": "Zakti Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Zakti_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "baza_prime_barrel": {
+    "name": "Baza Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Baza_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "aksomati_prime_barrel": {
+    "name": "Aksomati Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Aksomati_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "bronco_prime_set": {
+    "name": "Bronco Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Bronco_Prime",
+    "ducats": 75,
+    "vaulted": true
+  },
+  "zephyr_prime_systems_blueprint": {
+    "name": "Zephyr Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Zephyr_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "ash_prime_set": {
+    "name": "Ash Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Ash_Prime",
+    "ducats": 170,
+    "vaulted": true
+  },
+  "limbo_prime_neuroptics_blueprint": {
+    "name": "Limbo Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Limbo_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "chroma_prime_blueprint": {
+    "name": "Chroma Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Chroma_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "mesa_prime_set": {
+    "name": "Mesa Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Mesa_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "mesa_prime_systems_blueprint": {
+    "name": "Mesa Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Mesa_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "mesa_prime_chassis_blueprint": {
+    "name": "Mesa Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Mesa_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "rubico_prime_blueprint": {
+    "name": "Rubico Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Rubico_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "trinity_prime_chassis_blueprint": {
+    "name": "Trinity Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Trinity_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "ivara_prime_blueprint": {
+    "name": "Ivara Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Ivara_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "aksomati_prime_blueprint": {
+    "name": "Aksomati Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Aksomati_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "nekros_prime_set": {
+    "name": "Nekros Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nekros_Prime",
+    "ducats": 225,
+    "vaulted": true
+  },
+  "nekros_prime_systems_blueprint": {
+    "name": "Nekros Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nekros_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "chroma_prime_systems_blueprint": {
+    "name": "Chroma Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Chroma_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "chroma_prime_chassis_blueprint": {
+    "name": "Chroma Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Chroma_Prime",
+    "ducats": 25,
+    "vaulted": true
+  },
+  "galatine_prime_set": {
+    "name": "Galatine Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Galatine_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "chroma_prime_neuroptics_blueprint": {
+    "name": "Chroma Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Chroma_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "akjagara_prime_blueprint": {
+    "name": "Akjagara Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akjagara_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "galatine_prime_handle": {
+    "name": "Galatine Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Galatine_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "dual_kamas_prime_blade": {
+    "name": "Dual Kamas Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://warframe.fandom.com/wiki/Dual_Kamas_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "pangolin_prime_handle": {
+    "name": "Pangolin Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Pangolin_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "corinth_prime_set": {
+    "name": "Corinth Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Corinth_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "pangolin_prime_blueprint": {
+    "name": "Pangolin Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Pangolin_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "corinth_prime_barrel": {
+    "name": "Corinth Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Corinth_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "corinth_prime_receiver": {
+    "name": "Corinth Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Corinth_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "guandao_prime_blade": {
+    "name": "Guandao Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Guandao_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "zakti_prime_blueprint": {
+    "name": "Zakti Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Zakti_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "guandao_prime_handle": {
+    "name": "Guandao Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Guandao_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "zakti_prime_barrel": {
+    "name": "Zakti Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Zakti_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "nezha_prime_systems_blueprint": {
+    "name": "Nezha Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nezha_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "nezha_prime_chassis_blueprint": {
+    "name": "Nezha Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nezha_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "zakti_prime_receiver": {
+    "name": "Zakti Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Zakti_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "nezha_prime_neuroptics_blueprint": {
+    "name": "Nezha Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nezha_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "nezha_prime_set": {
+    "name": "Nezha Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nezha_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "octavia_prime_blueprint": {
+    "name": "Octavia Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Octavia_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "tenora_prime_blueprint": {
+    "name": "Tenora Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tenora_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "tenora_prime_receiver": {
+    "name": "Tenora Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tenora_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "pandero_prime_set": {
+    "name": "Pandero Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Pandero_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "tenora_prime_stock": {
+    "name": "Tenora Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tenora_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "tenora_prime_set": {
+    "name": "Tenora Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tenora_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "pandero_prime_barrel": {
+    "name": "Pandero Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Pandero_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "tenora_prime_barrel": {
+    "name": "Tenora Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tenora_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "octavia_prime_chassis_blueprint": {
+    "name": "Octavia Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Octavia_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "octavia_prime_neuroptics_blueprint": {
+    "name": "Octavia Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Octavia_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "pandero_prime_receiver": {
+    "name": "Pandero Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Pandero_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "octavia_prime_systems_blueprint": {
+    "name": "Octavia Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Octavia_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "pandero_prime_blueprint": {
+    "name": "Pandero Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Pandero_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "octavia_prime_set": {
+    "name": "Octavia Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Octavia_Prime",
+    "ducats": 175,
+    "vaulted": true
+  },
+  "volnus_prime_handle": {
+    "name": "Volnus Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Volnus_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "volnus_prime_head": {
+    "name": "Volnus Prime Head",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Volnus_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "gara_prime_blueprint": {
+    "name": "Gara Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Gara_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "volnus_prime_set": {
+    "name": "Volnus Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Volnus_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "gara_prime_set": {
+    "name": "Gara Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Gara_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "gara_prime_neuroptics_blueprint": {
+    "name": "Gara Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Gara_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "gara_prime_systems_blueprint": {
+    "name": "Gara Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Gara_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "astilla_prime_blueprint": {
+    "name": "Astilla Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Astilla_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "astilla_prime_receiver": {
+    "name": "Astilla Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Astilla_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "astilla_prime_barrel": {
+    "name": "Astilla Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Astilla_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "astilla_prime_set": {
+    "name": "Astilla Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Astilla_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "astilla_prime_stock": {
+    "name": "Astilla Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Astilla_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "volnus_prime_blueprint": {
+    "name": "Volnus Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Volnus_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "gara_prime_chassis_blueprint": {
+    "name": "Gara Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Gara_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "nidus_prime_blueprint": {
+    "name": "Nidus Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nidus_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "strun_prime_set": {
+    "name": "Strun Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Strun_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "magnus_prime_set": {
+    "name": "Magnus Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Magnus_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "nidus_prime_set": {
+    "name": "Nidus Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nidus_Prime",
+    "ducats": 225,
+    "vaulted": true
+  },
+  "strun_prime_blueprint": {
+    "name": "Strun Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Strun_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "magnus_prime_blueprint": {
+    "name": "Magnus Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Magnus_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "strun_prime_receiver": {
+    "name": "Strun Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Strun_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "strun_prime_barrel": {
+    "name": "Strun Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Strun_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "nidus_prime_systems_blueprint": {
+    "name": "Nidus Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nidus_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "strun_prime_stock": {
+    "name": "Strun Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Strun_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "nidus_prime_neuroptics_blueprint": {
+    "name": "Nidus Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nidus_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "nidus_prime_chassis_blueprint": {
+    "name": "Nidus Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Nidus_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "magnus_prime_receiver": {
+    "name": "Magnus Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Magnus_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "magnus_prime_barrel": {
+    "name": "Magnus Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Magnus_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "knell_prime_set": {
+    "name": "Knell Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Knell_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "scourge_prime_blade": {
+    "name": "Scourge Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Scourge_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "harrow_prime_blueprint": {
+    "name": "Harrow Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Harrow_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "harrow_prime_set": {
+    "name": "Harrow Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Harrow_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "knell_prime_barrel": {
+    "name": "Knell Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Knell_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "harrow_prime_neuroptics_blueprint": {
+    "name": "Harrow Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Harrow_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "scourge_prime_barrel": {
+    "name": "Scourge Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Scourge_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "knell_prime_blueprint": {
+    "name": "Knell Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Knell_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "harrow_prime_chassis_blueprint": {
+    "name": "Harrow Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Harrow_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "scourge_prime_set": {
+    "name": "Scourge Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Scourge_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "harrow_prime_systems_blueprint": {
+    "name": "Harrow Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Harrow_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "scourge_prime_handle": {
+    "name": "Scourge Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Scourge_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "knell_prime_receiver": {
+    "name": "Knell Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Knell_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "scourge_prime_blueprint": {
+    "name": "Scourge Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Scourge_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "garuda_prime_chassis_blueprint": {
+    "name": "Garuda Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Garuda_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "corvas_prime_set": {
+    "name": "Corvas Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Corvas_Prime",
+    "ducats": 175,
+    "vaulted": true
+  },
+  "nagantaka_prime_set": {
+    "name": "Nagantaka Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Nagantaka_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "corvas_prime_barrel": {
+    "name": "Corvas Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Corvas_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "corvas_prime_blueprint": {
+    "name": "Corvas Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Corvas_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "nagantaka_prime_receiver": {
+    "name": "Nagantaka Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Nagantaka_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "nagantaka_prime_blueprint": {
+    "name": "Nagantaka Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Nagantaka_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "corvas_prime_stock": {
+    "name": "Corvas Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Corvas_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "nagantaka_prime_stock": {
+    "name": "Nagantaka Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Nagantaka_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "garuda_prime_systems_blueprint": {
+    "name": "Garuda Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Garuda_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "corvas_prime_receiver": {
+    "name": "Corvas Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Corvas_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "nagantaka_prime_barrel": {
+    "name": "Nagantaka Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Nagantaka_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "garuda_prime_set": {
+    "name": "Garuda Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Garuda_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "garuda_prime_neuroptics_blueprint": {
+    "name": "Garuda Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Garuda_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "garuda_prime_blueprint": {
+    "name": "Garuda Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Garuda_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "hystrix_prime_blueprint": {
+    "name": "Hystrix Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Hystrix_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "khora_prime_chassis_blueprint": {
+    "name": "Khora Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Khora_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "dual_keres_prime_set": {
+    "name": "Dual Keres Prime Set",
+    "type": "weapon",
+    "wiki_link": null,
+    "ducats": 220,
+    "vaulted": true
+  },
+  "hystrix_prime_set": {
+    "name": "Hystrix Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Hystrix_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "dual_keres_prime_handle": {
+    "name": "Dual Keres Prime Handle",
+    "type": "weapon",
+    "wiki_link": null,
+    "ducats": 45,
+    "vaulted": true
+  },
+  "khora_prime_set": {
+    "name": "Khora Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Khora_Prime",
+    "ducats": 225,
+    "vaulted": true
+  },
+  "khora_prime_blueprint": {
+    "name": "Khora Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Khora_Prime",
+    "ducats": 65,
+    "vaulted": true
+  },
+  "hystrix_prime_receiver": {
+    "name": "Hystrix Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Hystrix_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "hystrix_prime_barrel": {
+    "name": "Hystrix Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Hystrix_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "khora_prime_neuroptics_blueprint": {
+    "name": "Khora Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Khora_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "dual_keres_prime_blueprint": {
+    "name": "Dual Keres Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": null,
+    "ducats": 100,
+    "vaulted": true
+  },
+  "khora_prime_systems_blueprint": {
+    "name": "Khora Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Khora_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "dual_keres_prime_blade": {
+    "name": "Dual Keres Prime Blade",
+    "type": "weapon",
+    "wiki_link": null,
+    "ducats": 15,
+    "vaulted": true
+  },
+  "tatsu_prime_blade": {
+    "name": "Tatsu Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tatsu_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "revenant_prime_chassis_blueprint": {
+    "name": "Revenant Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Revenant_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "revenant_prime_systems_blueprint": {
+    "name": "Revenant Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Revenant_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "tatsu_prime_set": {
+    "name": "Tatsu Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tatsu_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "tatsu_prime_blueprint": {
+    "name": "Tatsu Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tatsu_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "revenant_prime_set": {
+    "name": "Revenant Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Revenant_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "phantasma_prime_barrel": {
+    "name": "Phantasma Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Phantasma_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "revenant_prime_neuroptics_blueprint": {
+    "name": "Revenant Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Revenant_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "tatsu_prime_handle": {
+    "name": "Tatsu Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Tatsu_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "phantasma_prime_blueprint": {
+    "name": "Phantasma Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Phantasma_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "phantasma_prime_set": {
+    "name": "Phantasma Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Phantasma_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "phantasma_prime_receiver": {
+    "name": "Phantasma Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Phantasma_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "revenant_prime_blueprint": {
+    "name": "Revenant Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Revenant_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "phantasma_prime_stock": {
+    "name": "Phantasma Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Phantasma_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "baruuk_prime_chassis_blueprint": {
+    "name": "Baruuk Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Baruuk_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "baruuk_prime_blueprint": {
+    "name": "Baruuk Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Baruuk_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "baruuk_prime_systems_blueprint": {
+    "name": "Baruuk Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Baruuk_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "baruuk_prime_neuroptics_blueprint": {
+    "name": "Baruuk Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Baruuk_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "baruuk_prime_set": {
+    "name": "Baruuk Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Baruuk_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "cobra_and_crane_prime_guard": {
+    "name": "Cobra & Crane Prime Guard",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Cobra_%26_Crane_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "afuris_prime_barrel": {
+    "name": "Afuris Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Afuris_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "afuris_prime_set": {
+    "name": "Afuris Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Afuris_Prime",
+    "ducats": 290,
+    "vaulted": true
+  },
+  "afuris_prime_link": {
+    "name": "Afuris Prime Link",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Afuris_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "cobra_and_crane_prime_blueprint": {
+    "name": "Cobra & Crane Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Cobra_%26_Crane_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "afuris_prime_blueprint": {
+    "name": "Afuris Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Afuris_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "cobra_and_crane_prime_blade": {
+    "name": "Cobra & Crane Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Cobra_%26_Crane_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "cobra_and_crane_prime_hilt": {
+    "name": "Cobra & Crane Prime Hilt",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Cobra_%26_Crane_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "cobra_and_crane_prime_set": {
+    "name": "Cobra & Crane Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Cobra_%26_Crane_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "afuris_prime_receiver": {
+    "name": "Afuris Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Afuris_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "hildryn_prime_blueprint": {
+    "name": "Hildryn Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Hildryn_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "hildryn_prime_systems_blueprint": {
+    "name": "Hildryn Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Hildryn_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "shade_prime_blueprint": {
+    "name": "Shade Prime Blueprint",
+    "type": "sentinel",
+    "wiki_link": "https://wiki.warframe.com/w/Shade_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "hildryn_prime_set": {
+    "name": "Hildryn Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Hildryn_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "shade_prime_systems": {
+    "name": "Shade Prime Systems",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Shade_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "larkspur_prime_set": {
+    "name": "Larkspur Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Larkspur_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "hildryn_prime_neuroptics_blueprint": {
+    "name": "Hildryn Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Hildryn_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "larkspur_prime_barrel": {
+    "name": "Larkspur Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Larkspur_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "shade_prime_cerebrum": {
+    "name": "Shade Prime Cerebrum",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Shade_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "shade_prime_set": {
+    "name": "Shade Prime Set",
+    "type": "sentinel",
+    "wiki_link": "https://wiki.warframe.com/w/Shade_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "larkspur_prime_stock": {
+    "name": "Larkspur Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Larkspur_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "hildryn_prime_chassis_blueprint": {
+    "name": "Hildryn Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Hildryn_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "larkspur_prime_receiver": {
+    "name": "Larkspur Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Larkspur_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "shade_prime_carapace": {
+    "name": "Shade Prime Carapace",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Shade_Prime",
+    "ducats": 100,
+    "vaulted": true
+  },
+  "larkspur_prime_blueprint": {
+    "name": "Larkspur Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Larkspur_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "wisp_prime_chassis_blueprint": {
+    "name": "Wisp Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Wisp_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "gunsen_prime_blueprint": {
+    "name": "Gunsen Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Gunsen_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "gunsen_prime_set": {
+    "name": "Gunsen Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Gunsen_Prime",
+    "ducats": 305,
+    "vaulted": true
+  },
+  "fulmin_prime_blueprint": {
+    "name": "Fulmin Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Fulmin_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "gunsen_prime_handle": {
+    "name": "Gunsen Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Gunsen_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "fulmin_prime_barrel": {
+    "name": "Fulmin Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Fulmin_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "wisp_prime_set": {
+    "name": "Wisp Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Wisp_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "fulmin_prime_set": {
+    "name": "Fulmin Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Fulmin_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "fulmin_prime_stock": {
+    "name": "Fulmin Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Fulmin_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "wisp_prime_neuroptics_blueprint": {
+    "name": "Wisp Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Wisp_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "gunsen_prime_blade": {
+    "name": "Gunsen Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Gunsen_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "wisp_prime_systems_blueprint": {
+    "name": "Wisp Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Wisp_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "fulmin_prime_receiver": {
+    "name": "Fulmin Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Fulmin_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "wisp_prime_blueprint": {
+    "name": "Wisp Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Wisp_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "grendel_prime_set": {
+    "name": "Grendel Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Grendel_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "grendel_prime_blueprint": {
+    "name": "Grendel Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Grendel_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "grendel_prime_neuroptics_blueprint": {
+    "name": "Grendel Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Grendel_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "grendel_prime_chassis_blueprint": {
+    "name": "Grendel Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Grendel_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "grendel_prime_systems_blueprint": {
+    "name": "Grendel Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Grendel_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "masseter_prime_set": {
+    "name": "Masseter Prime Set",
+    "type": "weapon",
+    "wiki_link": null,
+    "ducats": 160,
+    "vaulted": true
+  },
+  "masseter_prime_blueprint": {
+    "name": "Masseter Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": null,
+    "ducats": 45,
+    "vaulted": false
+  },
+  "masseter_prime_blade": {
+    "name": "Masseter Prime Blade",
+    "type": "weapon",
+    "wiki_link": null,
+    "ducats": 100,
+    "vaulted": false
+  },
+  "masseter_prime_handle": {
+    "name": "Masseter Prime Handle",
+    "type": "weapon",
+    "wiki_link": null,
+    "ducats": 15,
+    "vaulted": false
+  },
+  "zylok_prime_set": {
+    "name": "Zylok Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Zylok_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "zylok_prime_blueprint": {
+    "name": "Zylok Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Zylok_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "zylok_prime_barrel": {
+    "name": "Zylok Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Zylok_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "zylok_prime_receiver": {
+    "name": "Zylok Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Zylok_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "gotva_prime": {
+    "name": "Gotva Prime",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Gotva_Prime",
+    "ducats": null,
+    "vaulted": true
+  },
+  "gauss_prime_set": {
+    "name": "Gauss Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Gauss_Prime",
+    "ducats": 185,
+    "vaulted": true
+  },
+  "gauss_prime_blueprint": {
+    "name": "Gauss Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Gauss_Prime",
+    "ducats": 25,
+    "vaulted": false
+  },
+  "gauss_prime_neuroptics_blueprint": {
+    "name": "Gauss Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Gauss_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "gauss_prime_chassis_blueprint": {
+    "name": "Gauss Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Gauss_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "gauss_prime_systems_blueprint": {
+    "name": "Gauss Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Gauss_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "akarius_prime_set": {
+    "name": "Akarius Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akarius_Prime",
+    "ducats": 375,
+    "vaulted": true
+  },
+  "akarius_prime_blueprint": {
+    "name": "Akarius Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akarius_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "akarius_prime_barrel": {
+    "name": "Akarius Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akarius_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "akarius_prime_receiver": {
+    "name": "Akarius Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akarius_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "akarius_prime_link": {
+    "name": "Akarius Prime Link",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akarius_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "acceltra_prime_set": {
+    "name": "Acceltra Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Acceltra_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "acceltra_prime_blueprint": {
+    "name": "Acceltra Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Acceltra_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "acceltra_prime_barrel": {
+    "name": "Acceltra Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Acceltra_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "acceltra_prime_receiver": {
+    "name": "Acceltra Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Acceltra_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "acceltra_prime_stock": {
+    "name": "Acceltra Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Acceltra_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "protea_prime_set": {
+    "name": "Protea Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Protea_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "protea_prime_blueprint": {
+    "name": "Protea Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Protea_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "protea_prime_neuroptics_blueprint": {
+    "name": "Protea Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Protea_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "protea_prime_chassis_blueprint": {
+    "name": "Protea Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Protea_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "protea_prime_systems_blueprint": {
+    "name": "Protea Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Protea_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "velox_prime_set": {
+    "name": "Velox Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Velox_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "velox_prime_blueprint": {
+    "name": "Velox Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Velox_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "velox_prime_barrel": {
+    "name": "Velox Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Velox_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "velox_prime_receiver": {
+    "name": "Velox Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Velox_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "okina_prime_set": {
+    "name": "Okina Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Okina_Prime",
+    "ducats": 220,
+    "vaulted": true
+  },
+  "okina_prime_blueprint": {
+    "name": "Okina Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Okina_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "okina_prime_handle": {
+    "name": "Okina Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Okina_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "okina_prime_blade": {
+    "name": "Okina Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Okina_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "akmagnus_prime_set": {
+    "name": "Akmagnus Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akmagnus_Prime",
+    "ducats": 60,
+    "vaulted": true
+  },
+  "akmagnus_prime_blueprint": {
+    "name": "Akmagnus Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akmagnus_Prime",
+    "ducats": 15,
+    "vaulted": true
+  },
+  "akmagnus_prime_link": {
+    "name": "Akmagnus Prime Link",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Akmagnus_Prime",
+    "ducats": 45,
+    "vaulted": true
+  },
+  "sevagoth_prime_set": {
+    "name": "Sevagoth Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Sevagoth_Prime",
+    "ducats": 175,
+    "vaulted": true
+  },
+  "sevagoth_prime_blueprint": {
+    "name": "Sevagoth Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Sevagoth_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "sevagoth_prime_neuroptics_blueprint": {
+    "name": "Sevagoth Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Sevagoth_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "sevagoth_prime_chassis_blueprint": {
+    "name": "Sevagoth Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Sevagoth_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "sevagoth_prime_systems_blueprint": {
+    "name": "Sevagoth Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Sevagoth_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "epitaph_prime_set": {
+    "name": "Epitaph Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+    "ducats": 160,
+    "vaulted": true
+  },
+  "epitaph_prime_blueprint": {
+    "name": "Epitaph Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "epitaph_prime_barrel": {
+    "name": "Epitaph Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "epitaph_prime_receiver": {
+    "name": "Epitaph Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Epitaph_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "nautilus_prime_set": {
+    "name": "Nautilus Prime Set",
+    "type": "sentinel",
+    "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "nautilus_prime_blueprint": {
+    "name": "Nautilus Prime Blueprint",
+    "type": "sentinel",
+    "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "nautilus_prime_cerebrum": {
+    "name": "Nautilus Prime Cerebrum",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "nautilus_prime_carapace": {
+    "name": "Nautilus Prime Carapace",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "nautilus_prime_systems": {
+    "name": "Nautilus Prime Systems",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Nautilus_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "xaku_prime_set": {
+    "name": "Xaku Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Xaku_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "xaku_prime_blueprint": {
+    "name": "Xaku Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Xaku_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "xaku_prime_neuroptics_blueprint": {
+    "name": "Xaku Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Xaku_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "xaku_prime_chassis_blueprint": {
+    "name": "Xaku Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Xaku_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "xaku_prime_systems_blueprint": {
+    "name": "Xaku Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Xaku_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "trumna_prime_set": {
+    "name": "Trumna Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+    "ducats": 260,
+    "vaulted": true
+  },
+  "trumna_prime_blueprint": {
+    "name": "Trumna Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "trumna_prime_barrel": {
+    "name": "Trumna Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "trumna_prime_receiver": {
+    "name": "Trumna Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "trumna_prime_stock": {
+    "name": "Trumna Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Trumna_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "quassus_prime_set": {
+    "name": "Quassus Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+    "ducats": 275,
+    "vaulted": true
+  },
+  "quassus_prime_blueprint": {
+    "name": "Quassus Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "quassus_prime_handle": {
+    "name": "Quassus Prime Handle",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "quassus_prime_blade": {
+    "name": "Quassus Prime Blade",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Quassus_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "cedo_prime_set": {
+    "name": "Cedo Prime Set",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "cedo_prime_blueprint": {
+    "name": "Cedo Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+    "ducats": 100,
+    "vaulted": false
+  },
+  "cedo_prime_receiver": {
+    "name": "Cedo Prime Receiver",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "cedo_prime_barrel": {
+    "name": "Cedo Prime Barrel",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "cedo_prime_stock": {
+    "name": "Cedo Prime Stock",
+    "type": "weapon",
+    "wiki_link": "https://wiki.warframe.com/w/Cedo_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "dual_zoren_prime_set": {
+    "name": "Dual Zoren Prime Set",
+    "type": "weapon",
+    "wiki_link": null,
+    "ducats": 275,
+    "vaulted": true
+  },
+  "dual_zoren_prime_blueprint": {
+    "name": "Dual Zoren Prime Blueprint",
+    "type": "weapon",
+    "wiki_link": null,
+    "ducats": 45,
+    "vaulted": false
+  },
+  "dual_zoren_prime_handle": {
+    "name": "Dual Zoren Prime Handle",
+    "type": "weapon",
+    "wiki_link": null,
+    "ducats": 15,
+    "vaulted": false
+  },
+  "dual_zoren_prime_blade": {
+    "name": "Dual Zoren Prime Blade",
+    "type": "weapon",
+    "wiki_link": null,
+    "ducats": 100,
+    "vaulted": false
+  },
+  "lavos_prime_set": {
+    "name": "Lavos Prime Set",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+    "ducats": 205,
+    "vaulted": true
+  },
+  "lavos_prime_blueprint": {
+    "name": "Lavos Prime Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "lavos_prime_neuroptics_blueprint": {
+    "name": "Lavos Prime Neuroptics Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+    "ducats": 45,
+    "vaulted": false
+  },
+  "lavos_prime_chassis_blueprint": {
+    "name": "Lavos Prime Chassis Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+    "ducats": 15,
+    "vaulted": false
+  },
+  "lavos_prime_systems_blueprint": {
+    "name": "Lavos Prime Systems Blueprint",
+    "type": "warframe",
+    "wiki_link": "https://wiki.warframe.com/w/Lavos_Prime",
+    "ducats": 100,
+    "vaulted": false
+  }
+}

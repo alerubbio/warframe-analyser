@@ -1,0 +1,3327 @@
+{
+  "6054dd0e5221e30057500f19": {
+    "name": "Axi H3 Relic",
+    "slug": "axi_h3_relic",
+    "vaulted": true
+  },
+  "6054dd0f5221e30057500f1a": {
+    "name": "Axi O2 Relic",
+    "slug": "axi_o2_relic",
+    "vaulted": true
+  },
+  "6054dd115221e30057500f1b": {
+    "name": "Axi K2 Relic",
+    "slug": "axi_k2_relic",
+    "vaulted": true
+  },
+  "6054dd125221e30057500f1c": {
+    "name": "Axi R1 Relic",
+    "slug": "axi_r1_relic",
+    "vaulted": true
+  },
+  "6054dd145221e30057500f1d": {
+    "name": "Axi B2 Relic",
+    "slug": "axi_b2_relic",
+    "vaulted": true
+  },
+  "6054dd155221e30057500f1e": {
+    "name": "Axi L5 Relic",
+    "slug": "axi_l5_relic",
+    "vaulted": true
+  },
+  "6054dd165221e30057500f1f": {
+    "name": "Axi P1 Relic",
+    "slug": "axi_p1_relic",
+    "vaulted": true
+  },
+  "6054dd185221e30057500f20": {
+    "name": "Axi M1 Relic",
+    "slug": "axi_m1_relic",
+    "vaulted": true
+  },
+  "6054dd195221e30057500f21": {
+    "name": "Axi D1 Relic",
+    "slug": "axi_d1_relic",
+    "vaulted": true
+  },
+  "6054dd1a5221e30057500f22": {
+    "name": "Axi G2 Relic",
+    "slug": "axi_g2_relic",
+    "vaulted": true
+  },
+  "6054dd1b5221e30057500f23": {
+    "name": "Axi O1 Relic",
+    "slug": "axi_o1_relic",
+    "vaulted": true
+  },
+  "6054dd1c5221e30057500f24": {
+    "name": "Axi V8 Relic",
+    "slug": "axi_v8_relic",
+    "vaulted": false
+  },
+  "6054dd1d5221e30057500f25": {
+    "name": "Axi H2 Relic",
+    "slug": "axi_h2_relic",
+    "vaulted": true
+  },
+  "6054dd1e5221e30057500f26": {
+    "name": "Axi C2 Relic",
+    "slug": "axi_c2_relic",
+    "vaulted": true
+  },
+  "6054dd1f5221e30057500f27": {
+    "name": "Axi A10 Relic",
+    "slug": "axi_a10_relic",
+    "vaulted": true
+  },
+  "6054dd205221e30057500f28": {
+    "name": "Axi T5 Relic",
+    "slug": "axi_t5_relic",
+    "vaulted": true
+  },
+  "6054dd225221e30057500f29": {
+    "name": "Axi T4 Relic",
+    "slug": "axi_t4_relic",
+    "vaulted": true
+  },
+  "6054dd225221e30057500f2a": {
+    "name": "Axi G4 Relic",
+    "slug": "axi_g4_relic",
+    "vaulted": true
+  },
+  "6054dd235221e30057500f2b": {
+    "name": "Axi H1 Relic",
+    "slug": "axi_h1_relic",
+    "vaulted": true
+  },
+  "6054dd245221e30057500f2c": {
+    "name": "Axi S5 Relic",
+    "slug": "axi_s5_relic",
+    "vaulted": true
+  },
+  "6054dd255221e30057500f2d": {
+    "name": "Axi V9 Relic",
+    "slug": "axi_v9_relic",
+    "vaulted": true
+  },
+  "6054dd265221e30057500f2e": {
+    "name": "Axi E2 Relic",
+    "slug": "axi_e2_relic",
+    "vaulted": true
+  },
+  "6054dd285221e30057500f2f": {
+    "name": "Axi S3 Relic",
+    "slug": "axi_s3_relic",
+    "vaulted": true
+  },
+  "6054dd2b5221e30057500f30": {
+    "name": "Axi B1 Relic",
+    "slug": "axi_b1_relic",
+    "vaulted": true
+  },
+  "6054dd2c5221e30057500f31": {
+    "name": "Axi E1 Relic",
+    "slug": "axi_e1_relic",
+    "vaulted": true
+  },
+  "6054dd2e5221e30057500f32": {
+    "name": "Axi A2 Relic",
+    "slug": "axi_a2_relic",
+    "vaulted": false
+  },
+  "6054dd315221e30057500f33": {
+    "name": "Axi T6 Relic",
+    "slug": "axi_t6_relic",
+    "vaulted": true
+  },
+  "6054dd315221e30057500f34": {
+    "name": "Axi C6 Relic",
+    "slug": "axi_c6_relic",
+    "vaulted": true
+  },
+  "6054dd325221e30057500f35": {
+    "name": "Axi W2 Relic",
+    "slug": "axi_w2_relic",
+    "vaulted": true
+  },
+  "6054dd325221e30057500f36": {
+    "name": "Axi A13 Relic",
+    "slug": "axi_a13_relic",
+    "vaulted": true
+  },
+  "6054dd335221e30057500f37": {
+    "name": "Axi O5 Relic",
+    "slug": "axi_o5_relic",
+    "vaulted": true
+  },
+  "6054dd345221e30057500f38": {
+    "name": "Axi S6 Relic",
+    "slug": "axi_s6_relic",
+    "vaulted": true
+  },
+  "6054dd355221e30057500f39": {
+    "name": "Axi C1 Relic",
+    "slug": "axi_c1_relic",
+    "vaulted": true
+  },
+  "6054dd365221e30057500f3a": {
+    "name": "Axi S8 Relic",
+    "slug": "axi_s8_relic",
+    "vaulted": false
+  },
+  "6054dd375221e30057500f3b": {
+    "name": "Axi V10 Relic",
+    "slug": "axi_v10_relic",
+    "vaulted": false
+  },
+  "6054dd375221e30057500f3c": {
+    "name": "Axi S7 Relic",
+    "slug": "axi_s7_relic",
+    "vaulted": true
+  },
+  "6054dd385221e30057500f3d": {
+    "name": "Axi Z1 Relic",
+    "slug": "axi_z1_relic",
+    "vaulted": true
+  },
+  "6054dd395221e30057500f3e": {
+    "name": "Axi V5 Relic",
+    "slug": "axi_v5_relic",
+    "vaulted": true
+  },
+  "6054dd3a5221e30057500f3f": {
+    "name": "Axi A3 Relic",
+    "slug": "axi_a3_relic",
+    "vaulted": true
+  },
+  "6054dd3b5221e30057500f40": {
+    "name": "Axi V7 Relic",
+    "slug": "axi_v7_relic",
+    "vaulted": true
+  },
+  "6054dd3c5221e30057500f41": {
+    "name": "Axi C4 Relic",
+    "slug": "axi_c4_relic",
+    "vaulted": true
+  },
+  "6054dd3d5221e30057500f42": {
+    "name": "Axi L3 Relic",
+    "slug": "axi_l3_relic",
+    "vaulted": true
+  },
+  "6054dd3e5221e30057500f43": {
+    "name": "Axi H4 Relic",
+    "slug": "axi_h4_relic",
+    "vaulted": true
+  },
+  "6054dd405221e30057500f44": {
+    "name": "Axi R2 Relic",
+    "slug": "axi_r2_relic",
+    "vaulted": true
+  },
+  "6054dd425221e30057500f45": {
+    "name": "Axi A5 Relic",
+    "slug": "axi_a5_relic",
+    "vaulted": false
+  },
+  "6054dd445221e30057500f46": {
+    "name": "Axi S4 Relic",
+    "slug": "axi_s4_relic",
+    "vaulted": true
+  },
+  "6054dd465221e30057500f47": {
+    "name": "Axi V4 Relic",
+    "slug": "axi_v4_relic",
+    "vaulted": true
+  },
+  "6054dd475221e30057500f48": {
+    "name": "Axi L4 Relic",
+    "slug": "axi_l4_relic",
+    "vaulted": true
+  },
+  "6054dd4a5221e30057500f49": {
+    "name": "Axi A4 Relic",
+    "slug": "axi_a4_relic",
+    "vaulted": true
+  },
+  "6054dd4b5221e30057500f4a": {
+    "name": "Axi L2 Relic",
+    "slug": "axi_l2_relic",
+    "vaulted": true
+  },
+  "6054dd4d5221e30057500f4b": {
+    "name": "Axi O3 Relic",
+    "slug": "axi_o3_relic",
+    "vaulted": true
+  },
+  "6054dd4e5221e30057500f4c": {
+    "name": "Axi K3 Relic",
+    "slug": "axi_k3_relic",
+    "vaulted": true
+  },
+  "6054dd4f5221e30057500f4d": {
+    "name": "Axi G1 Relic",
+    "slug": "axi_g1_relic",
+    "vaulted": true
+  },
+  "6054dd505221e30057500f4e": {
+    "name": "Axi T1 Relic",
+    "slug": "axi_t1_relic",
+    "vaulted": true
+  },
+  "6054dd515221e30057500f4f": {
+    "name": "Axi A9 Relic",
+    "slug": "axi_a9_relic",
+    "vaulted": true
+  },
+  "6054dd535221e30057500f50": {
+    "name": "Axi P3 Relic",
+    "slug": "axi_p3_relic",
+    "vaulted": true
+  },
+  "6054dd545221e30057500f51": {
+    "name": "Axi D2 Relic",
+    "slug": "axi_d2_relic",
+    "vaulted": true
+  },
+  "6054dd545221e30057500f52": {
+    "name": "Axi B3 Relic",
+    "slug": "axi_b3_relic",
+    "vaulted": true
+  },
+  "6054dd565221e30057500f53": {
+    "name": "Axi A8 Relic",
+    "slug": "axi_a8_relic",
+    "vaulted": true
+  },
+  "6054dd565221e30057500f54": {
+    "name": "Axi W1 Relic",
+    "slug": "axi_w1_relic",
+    "vaulted": true
+  },
+  "6054dd575221e30057500f55": {
+    "name": "Axi B4 Relic",
+    "slug": "axi_b4_relic",
+    "vaulted": true
+  },
+  "6054dd585221e30057500f56": {
+    "name": "Axi C5 Relic",
+    "slug": "axi_c5_relic",
+    "vaulted": true
+  },
+  "6054dd595221e30057500f57": {
+    "name": "Axi A11 Relic",
+    "slug": "axi_a11_relic",
+    "vaulted": true
+  },
+  "6054dd595221e30057500f58": {
+    "name": "Axi N3 Relic",
+    "slug": "axi_n3_relic",
+    "vaulted": true
+  },
+  "6054dd5b5221e30057500f59": {
+    "name": "Axi V6 Relic",
+    "slug": "axi_v6_relic",
+    "vaulted": true
+  },
+  "6054dd5c5221e30057500f5a": {
+    "name": "Axi N5 Relic",
+    "slug": "axi_n5_relic",
+    "vaulted": true
+  },
+  "6054dd5d5221e30057500f5b": {
+    "name": "Axi N4 Relic",
+    "slug": "axi_n4_relic",
+    "vaulted": true
+  },
+  "6054dd5e5221e30057500f5c": {
+    "name": "Axi V3 Relic",
+    "slug": "axi_v3_relic",
+    "vaulted": true
+  },
+  "6054dd5f5221e30057500f5d": {
+    "name": "Axi N2 Relic",
+    "slug": "axi_n2_relic",
+    "vaulted": true
+  },
+  "6054dd605221e30057500f5e": {
+    "name": "Axi V2 Relic",
+    "slug": "axi_v2_relic",
+    "vaulted": true
+  },
+  "6054dd615221e30057500f5f": {
+    "name": "Axi K5 Relic",
+    "slug": "axi_k5_relic",
+    "vaulted": true
+  },
+  "6054dd635221e30057500f60": {
+    "name": "Axi T2 Relic",
+    "slug": "axi_t2_relic",
+    "vaulted": true
+  },
+  "6054dd635221e30057500f61": {
+    "name": "Axi S2 Relic",
+    "slug": "axi_s2_relic",
+    "vaulted": true
+  },
+  "6054dd655221e30057500f62": {
+    "name": "Axi L1 Relic",
+    "slug": "axi_l1_relic",
+    "vaulted": true
+  },
+  "6054dd685221e30057500f63": {
+    "name": "Axi A1 Relic",
+    "slug": "axi_a1_relic",
+    "vaulted": true
+  },
+  "6054dd6a5221e30057500f64": {
+    "name": "Axi N1 Relic",
+    "slug": "axi_n1_relic",
+    "vaulted": true
+  },
+  "6054dd6b5221e30057500f65": {
+    "name": "Axi O4 Relic",
+    "slug": "axi_o4_relic",
+    "vaulted": true
+  },
+  "6054dd6d5221e30057500f66": {
+    "name": "Axi K4 Relic",
+    "slug": "axi_k4_relic",
+    "vaulted": true
+  },
+  "6054dd6d5221e30057500f67": {
+    "name": "Axi C3 Relic",
+    "slug": "axi_c3_relic",
+    "vaulted": true
+  },
+  "6054dd6f5221e30057500f68": {
+    "name": "Axi K1 Relic",
+    "slug": "axi_k1_relic",
+    "vaulted": true
+  },
+  "6054dd705221e30057500f69": {
+    "name": "Axi A12 Relic",
+    "slug": "axi_a12_relic",
+    "vaulted": true
+  },
+  "6054dd715221e30057500f6a": {
+    "name": "Axi H5 Relic",
+    "slug": "axi_h5_relic",
+    "vaulted": true
+  },
+  "6054dd715221e30057500f6b": {
+    "name": "Axi V1 Relic",
+    "slug": "axi_v1_relic",
+    "vaulted": true
+  },
+  "6054dd735221e30057500f6c": {
+    "name": "Axi T3 Relic",
+    "slug": "axi_t3_relic",
+    "vaulted": true
+  },
+  "6054dd745221e30057500f6d": {
+    "name": "Axi G3 Relic",
+    "slug": "axi_g3_relic",
+    "vaulted": true
+  },
+  "6054dd745221e30057500f6e": {
+    "name": "Axi R3 Relic",
+    "slug": "axi_r3_relic",
+    "vaulted": true
+  },
+  "6054dd755221e30057500f6f": {
+    "name": "Axi A6 Relic",
+    "slug": "axi_a6_relic",
+    "vaulted": true
+  },
+  "6054dd775221e30057500f70": {
+    "name": "Axi P2 Relic",
+    "slug": "axi_p2_relic",
+    "vaulted": true
+  },
+  "6054dd785221e30057500f71": {
+    "name": "Axi A7 Relic",
+    "slug": "axi_a7_relic",
+    "vaulted": true
+  },
+  "6054dd795221e30057500f72": {
+    "name": "Axi N6 Relic",
+    "slug": "axi_n6_relic",
+    "vaulted": true
+  },
+  "6054dd7a5221e30057500f73": {
+    "name": "Axi S1 Relic",
+    "slug": "axi_s1_relic",
+    "vaulted": true
+  },
+  "6054dd7a5221e30057500f74": {
+    "name": "Neo Z1 Relic",
+    "slug": "neo_z1_relic",
+    "vaulted": true
+  },
+  "6054dd7b5221e30057500f75": {
+    "name": "Neo B4 Relic",
+    "slug": "neo_b4_relic",
+    "vaulted": true
+  },
+  "6054dd7c5221e30057500f76": {
+    "name": "Neo K1 Relic",
+    "slug": "neo_k1_relic",
+    "vaulted": true
+  },
+  "6054dd7d5221e30057500f77": {
+    "name": "Neo N7 Relic",
+    "slug": "neo_n7_relic",
+    "vaulted": true
+  },
+  "6054dd7e5221e30057500f78": {
+    "name": "Neo B3 Relic",
+    "slug": "neo_b3_relic",
+    "vaulted": true
+  },
+  "6054dd7f5221e30057500f79": {
+    "name": "Neo N6 Relic",
+    "slug": "neo_n6_relic",
+    "vaulted": true
+  },
+  "6054dd805221e30057500f7a": {
+    "name": "Neo R2 Relic",
+    "slug": "neo_r2_relic",
+    "vaulted": true
+  },
+  "6054dd825221e30057500f7b": {
+    "name": "Neo Z3 Relic",
+    "slug": "neo_z3_relic",
+    "vaulted": true
+  },
+  "6054dd825221e30057500f7c": {
+    "name": "Neo S12 Relic",
+    "slug": "neo_s12_relic",
+    "vaulted": true
+  },
+  "6054dd835221e30057500f7d": {
+    "name": "Neo B2 Relic",
+    "slug": "neo_b2_relic",
+    "vaulted": true
+  },
+  "6054dd845221e30057500f7e": {
+    "name": "Neo O1 Relic",
+    "slug": "neo_o1_relic",
+    "vaulted": false
+  },
+  "6054dd855221e30057500f7f": {
+    "name": "Neo S6 Relic",
+    "slug": "neo_s6_relic",
+    "vaulted": true
+  },
+  "6054dd865221e30057500f80": {
+    "name": "Neo V5 Relic",
+    "slug": "neo_v5_relic",
+    "vaulted": true
+  },
+  "6054dd875221e30057500f81": {
+    "name": "Neo R4 Relic",
+    "slug": "neo_r4_relic",
+    "vaulted": true
+  },
+  "6054dd885221e30057500f82": {
+    "name": "Neo M3 Relic",
+    "slug": "neo_m3_relic",
+    "vaulted": true
+  },
+  "6054dd895221e30057500f83": {
+    "name": "Neo P1 Relic",
+    "slug": "neo_p1_relic",
+    "vaulted": true
+  },
+  "6054dd8a5221e30057500f84": {
+    "name": "Neo I2 Relic",
+    "slug": "neo_i2_relic",
+    "vaulted": true
+  },
+  "6054dd8b5221e30057500f85": {
+    "name": "Neo B1 Relic",
+    "slug": "neo_b1_relic",
+    "vaulted": true
+  },
+  "6054dd8c5221e30057500f86": {
+    "name": "Neo S13 Relic",
+    "slug": "neo_s13_relic",
+    "vaulted": true
+  },
+  "6054dd8d5221e30057500f87": {
+    "name": "Neo N5 Relic",
+    "slug": "neo_n5_relic",
+    "vaulted": true
+  },
+  "6054dd8e5221e30057500f88": {
+    "name": "Neo R1 Relic",
+    "slug": "neo_r1_relic",
+    "vaulted": true
+  },
+  "6054dd925221e30057500f89": {
+    "name": "Neo T1 Relic",
+    "slug": "neo_t1_relic",
+    "vaulted": true
+  },
+  "6054dd925221e30057500f8a": {
+    "name": "Neo S5 Relic",
+    "slug": "neo_s5_relic",
+    "vaulted": true
+  },
+  "6054dd945221e30057500f8b": {
+    "name": "Neo N15 Relic",
+    "slug": "neo_n15_relic",
+    "vaulted": true
+  },
+  "6054dd945221e30057500f8c": {
+    "name": "Neo B7 Relic",
+    "slug": "neo_b7_relic",
+    "vaulted": true
+  },
+  "6054dd955221e30057500f8d": {
+    "name": "Neo P2 Relic",
+    "slug": "neo_p2_relic",
+    "vaulted": true
+  },
+  "6054dd965221e30057500f8e": {
+    "name": "Neo Z7 Relic",
+    "slug": "neo_z7_relic",
+    "vaulted": true
+  },
+  "6054dd965221e30057500f8f": {
+    "name": "Neo N14 Relic",
+    "slug": "neo_n14_relic",
+    "vaulted": true
+  },
+  "6054dd975221e30057500f90": {
+    "name": "Neo G3 Relic",
+    "slug": "neo_g3_relic",
+    "vaulted": true
+  },
+  "6054dd985221e30057500f91": {
+    "name": "Neo N11 Relic",
+    "slug": "neo_n11_relic",
+    "vaulted": true
+  },
+  "6054dd995221e30057500f92": {
+    "name": "Neo N4 Relic",
+    "slug": "neo_n4_relic",
+    "vaulted": true
+  },
+  "6054dd9a5221e30057500f93": {
+    "name": "Neo V9 Relic",
+    "slug": "neo_v9_relic",
+    "vaulted": false
+  },
+  "6054dd9a5221e30057500f94": {
+    "name": "Neo N12 Relic",
+    "slug": "neo_n12_relic",
+    "vaulted": true
+  },
+  "6054dd9b5221e30057500f95": {
+    "name": "Neo E2 Relic",
+    "slug": "neo_e2_relic",
+    "vaulted": true
+  },
+  "6054dd9c5221e30057500f96": {
+    "name": "Neo Z6 Relic",
+    "slug": "neo_z6_relic",
+    "vaulted": true
+  },
+  "6054dd9d5221e30057500f97": {
+    "name": "Neo S14 Relic",
+    "slug": "neo_s14_relic",
+    "vaulted": true
+  },
+  "6054dd9d5221e30057500f98": {
+    "name": "Neo N13 Relic",
+    "slug": "neo_n13_relic",
+    "vaulted": true
+  },
+  "6054dd9e5221e30057500f99": {
+    "name": "Neo D2 Relic",
+    "slug": "neo_d2_relic",
+    "vaulted": true
+  },
+  "6054dd9f5221e30057500f9a": {
+    "name": "Neo V4 Relic",
+    "slug": "neo_v4_relic",
+    "vaulted": true
+  },
+  "6054dda05221e30057500f9b": {
+    "name": "Neo V6 Relic",
+    "slug": "neo_v6_relic",
+    "vaulted": true
+  },
+  "6054dda15221e30057500f9c": {
+    "name": "Neo M1 Relic",
+    "slug": "neo_m1_relic",
+    "vaulted": true
+  },
+  "6054dda25221e30057500f9d": {
+    "name": "Neo S9 Relic",
+    "slug": "neo_s9_relic",
+    "vaulted": true
+  },
+  "6054dda25221e30057500f9e": {
+    "name": "Neo M2 Relic",
+    "slug": "neo_m2_relic",
+    "vaulted": true
+  },
+  "6054dda45221e30057500f9f": {
+    "name": "Neo Z2 Relic",
+    "slug": "neo_z2_relic",
+    "vaulted": true
+  },
+  "6054dda45221e30057500fa0": {
+    "name": "Neo N9 Relic",
+    "slug": "neo_n9_relic",
+    "vaulted": true
+  },
+  "6054dda65221e30057500fa1": {
+    "name": "Neo A1 Relic",
+    "slug": "neo_a1_relic",
+    "vaulted": true
+  },
+  "6054dda75221e30057500fa2": {
+    "name": "Neo V8 Relic",
+    "slug": "neo_v8_relic",
+    "vaulted": true
+  },
+  "6054dda95221e30057500fa3": {
+    "name": "Neo B5 Relic",
+    "slug": "neo_b5_relic",
+    "vaulted": true
+  },
+  "6054ddaa5221e30057500fa4": {
+    "name": "Neo V7 Relic",
+    "slug": "neo_v7_relic",
+    "vaulted": true
+  },
+  "6054ddab5221e30057500fa5": {
+    "name": "Neo N8 Relic",
+    "slug": "neo_n8_relic",
+    "vaulted": true
+  },
+  "6054ddac5221e30057500fa6": {
+    "name": "Neo L1 Relic",
+    "slug": "neo_l1_relic",
+    "vaulted": true
+  },
+  "6054ddad5221e30057500fa7": {
+    "name": "Neo V3 Relic",
+    "slug": "neo_v3_relic",
+    "vaulted": true
+  },
+  "6054ddae5221e30057500fa8": {
+    "name": "Neo V2 Relic",
+    "slug": "neo_v2_relic",
+    "vaulted": true
+  },
+  "6054ddaf5221e30057500fa9": {
+    "name": "Neo G2 Relic",
+    "slug": "neo_g2_relic",
+    "vaulted": true
+  },
+  "6054ddb05221e30057500faa": {
+    "name": "Neo R3 Relic",
+    "slug": "neo_r3_relic",
+    "vaulted": true
+  },
+  "6054ddb15221e30057500fab": {
+    "name": "Neo Z5 Relic",
+    "slug": "neo_z5_relic",
+    "vaulted": true
+  },
+  "6054ddb15221e30057500fac": {
+    "name": "Neo I1 Relic",
+    "slug": "neo_i1_relic",
+    "vaulted": true
+  },
+  "6054ddb25221e30057500fad": {
+    "name": "Neo T3 Relic",
+    "slug": "neo_t3_relic",
+    "vaulted": true
+  },
+  "6054ddb35221e30057500fae": {
+    "name": "Neo N3 Relic",
+    "slug": "neo_n3_relic",
+    "vaulted": true
+  },
+  "6054ddb35221e30057500faf": {
+    "name": "Neo H1 Relic",
+    "slug": "neo_h1_relic",
+    "vaulted": true
+  },
+  "6054ddb55221e30057500fb0": {
+    "name": "Neo S8 Relic",
+    "slug": "neo_s8_relic",
+    "vaulted": true
+  },
+  "6054ddb65221e30057500fb1": {
+    "name": "Neo S7 Relic",
+    "slug": "neo_s7_relic",
+    "vaulted": true
+  },
+  "6054ddb75221e30057500fb2": {
+    "name": "Neo S3 Relic",
+    "slug": "neo_s3_relic",
+    "vaulted": true
+  },
+  "6054ddb85221e30057500fb3": {
+    "name": "Neo D1 Relic",
+    "slug": "neo_d1_relic",
+    "vaulted": true
+  },
+  "6054ddb95221e30057500fb4": {
+    "name": "Neo C1 Relic",
+    "slug": "neo_c1_relic",
+    "vaulted": true
+  },
+  "6054ddba5221e30057500fb5": {
+    "name": "Neo N10 Relic",
+    "slug": "neo_n10_relic",
+    "vaulted": true
+  },
+  "6054ddbb5221e30057500fb6": {
+    "name": "Neo S11 Relic",
+    "slug": "neo_s11_relic",
+    "vaulted": true
+  },
+  "6054ddbb5221e30057500fb7": {
+    "name": "Neo E1 Relic",
+    "slug": "neo_e1_relic",
+    "vaulted": true
+  },
+  "6054ddbd5221e30057500fb8": {
+    "name": "Neo F1 Relic",
+    "slug": "neo_f1_relic",
+    "vaulted": true
+  },
+  "6054ddbe5221e30057500fb9": {
+    "name": "Neo V1 Relic",
+    "slug": "neo_v1_relic",
+    "vaulted": true
+  },
+  "6054ddc05221e30057500fba": {
+    "name": "Neo N2 Relic",
+    "slug": "neo_n2_relic",
+    "vaulted": true
+  },
+  "6054ddc15221e30057500fbb": {
+    "name": "Neo H2 Relic",
+    "slug": "neo_h2_relic",
+    "vaulted": true
+  },
+  "6054ddc25221e30057500fbc": {
+    "name": "Neo A2 Relic",
+    "slug": "neo_a2_relic",
+    "vaulted": true
+  },
+  "6054ddc35221e30057500fbd": {
+    "name": "Neo G1 Relic",
+    "slug": "neo_g1_relic",
+    "vaulted": true
+  },
+  "6054ddc45221e30057500fbe": {
+    "name": "Neo K2 Relic",
+    "slug": "neo_k2_relic",
+    "vaulted": true
+  },
+  "6054ddc55221e30057500fbf": {
+    "name": "Neo N1 Relic",
+    "slug": "neo_n1_relic",
+    "vaulted": true
+  },
+  "6054ddc65221e30057500fc0": {
+    "name": "Neo B6 Relic",
+    "slug": "neo_b6_relic",
+    "vaulted": true
+  },
+  "6054ddc75221e30057500fc1": {
+    "name": "Neo S2 Relic",
+    "slug": "neo_s2_relic",
+    "vaulted": true
+  },
+  "6054ddc85221e30057500fc2": {
+    "name": "Neo A3 Relic",
+    "slug": "neo_a3_relic",
+    "vaulted": true
+  },
+  "6054ddc95221e30057500fc3": {
+    "name": "Neo Z4 Relic",
+    "slug": "neo_z4_relic",
+    "vaulted": true
+  },
+  "6054ddca5221e30057500fc4": {
+    "name": "Neo T2 Relic",
+    "slug": "neo_t2_relic",
+    "vaulted": true
+  },
+  "6054ddcb5221e30057500fc5": {
+    "name": "Neo A4 Relic",
+    "slug": "neo_a4_relic",
+    "vaulted": true
+  },
+  "6054ddcc5221e30057500fc6": {
+    "name": "Neo S10 Relic",
+    "slug": "neo_s10_relic",
+    "vaulted": true
+  },
+  "6054ddcd5221e30057500fc7": {
+    "name": "Neo S1 Relic",
+    "slug": "neo_s1_relic",
+    "vaulted": true
+  },
+  "6054ddce5221e30057500fc8": {
+    "name": "Meso T2 Relic",
+    "slug": "meso_t2_relic",
+    "vaulted": true
+  },
+  "6054ddcf5221e30057500fc9": {
+    "name": "Meso T1 Relic",
+    "slug": "meso_t1_relic",
+    "vaulted": true
+  },
+  "6054ddd05221e30057500fca": {
+    "name": "Meso O2 Relic",
+    "slug": "meso_o2_relic",
+    "vaulted": true
+  },
+  "6054ddd15221e30057500fcb": {
+    "name": "Meso S6 Relic",
+    "slug": "meso_s6_relic",
+    "vaulted": true
+  },
+  "6054ddd15221e30057500fcc": {
+    "name": "Meso M1 Relic",
+    "slug": "meso_m1_relic",
+    "vaulted": true
+  },
+  "6054ddd25221e30057500fcd": {
+    "name": "Meso V5 Relic",
+    "slug": "meso_v5_relic",
+    "vaulted": true
+  },
+  "6054ddd45221e30057500fce": {
+    "name": "Meso N7 Relic",
+    "slug": "meso_n7_relic",
+    "vaulted": true
+  },
+  "6054ddd55221e30057500fcf": {
+    "name": "Meso K2 Relic",
+    "slug": "meso_k2_relic",
+    "vaulted": true
+  },
+  "6054ddd65221e30057500fd0": {
+    "name": "Meso A2 Relic",
+    "slug": "meso_a2_relic",
+    "vaulted": true
+  },
+  "6054ddd65221e30057500fd1": {
+    "name": "Meso N4 Relic",
+    "slug": "meso_n4_relic",
+    "vaulted": true
+  },
+  "6054ddd75221e30057500fd2": {
+    "name": "Meso S5 Relic",
+    "slug": "meso_s5_relic",
+    "vaulted": true
+  },
+  "6054ddd85221e30057500fd3": {
+    "name": "Meso O1 Relic",
+    "slug": "meso_o1_relic",
+    "vaulted": true
+  },
+  "6054ddd95221e30057500fd4": {
+    "name": "Meso C5 Relic",
+    "slug": "meso_c5_relic",
+    "vaulted": true
+  },
+  "6054ddda5221e30057500fd5": {
+    "name": "Meso R3 Relic",
+    "slug": "meso_r3_relic",
+    "vaulted": true
+  },
+  "6054ddda5221e30057500fd6": {
+    "name": "Meso E4 Relic",
+    "slug": "meso_e4_relic",
+    "vaulted": true
+  },
+  "6054dddb5221e30057500fd7": {
+    "name": "Meso V4 Relic",
+    "slug": "meso_v4_relic",
+    "vaulted": true
+  },
+  "6054dddc5221e30057500fd8": {
+    "name": "Meso N8 Relic",
+    "slug": "meso_n8_relic",
+    "vaulted": true
+  },
+  "6054dddd5221e30057500fd9": {
+    "name": "Meso S4 Relic",
+    "slug": "meso_s4_relic",
+    "vaulted": true
+  },
+  "6054ddde5221e30057500fda": {
+    "name": "Meso N6 Relic",
+    "slug": "meso_n6_relic",
+    "vaulted": true
+  },
+  "6054dddf5221e30057500fdb": {
+    "name": "Meso N3 Relic",
+    "slug": "meso_n3_relic",
+    "vaulted": true
+  },
+  "6054dde05221e30057500fdc": {
+    "name": "Meso F2 Relic",
+    "slug": "meso_f2_relic",
+    "vaulted": true
+  },
+  "6054dde15221e30057500fdd": {
+    "name": "Meso T4 Relic",
+    "slug": "meso_t4_relic",
+    "vaulted": true
+  },
+  "6054dde25221e30057500fde": {
+    "name": "Meso D6 Relic",
+    "slug": "meso_d6_relic",
+    "vaulted": true
+  },
+  "6054dde25221e30057500fdf": {
+    "name": "Meso P4 Relic",
+    "slug": "meso_p4_relic",
+    "vaulted": true
+  },
+  "6054dde35221e30057500fe0": {
+    "name": "Meso O4 Relic",
+    "slug": "meso_o4_relic",
+    "vaulted": true
+  },
+  "6054dde45221e30057500fe1": {
+    "name": "Meso S3 Relic",
+    "slug": "meso_s3_relic",
+    "vaulted": true
+  },
+  "6054dde55221e30057500fe2": {
+    "name": "Meso N11 Relic",
+    "slug": "meso_n11_relic",
+    "vaulted": false
+  },
+  "6054dde65221e30057500fe3": {
+    "name": "Meso D5 Relic",
+    "slug": "meso_d5_relic",
+    "vaulted": true
+  },
+  "6054dde75221e30057500fe4": {
+    "name": "Meso G2 Relic",
+    "slug": "meso_g2_relic",
+    "vaulted": true
+  },
+  "6054dde75221e30057500fe5": {
+    "name": "Meso C6 Relic",
+    "slug": "meso_c6_relic",
+    "vaulted": true
+  },
+  "6054dde85221e30057500fe6": {
+    "name": "Meso V3 Relic",
+    "slug": "meso_v3_relic",
+    "vaulted": true
+  },
+  "6054dde85221e30057500fe7": {
+    "name": "Meso K1 Relic",
+    "slug": "meso_k1_relic",
+    "vaulted": true
+  },
+  "6054ddea5221e30057500fe8": {
+    "name": "Meso H1 Relic",
+    "slug": "meso_h1_relic",
+    "vaulted": true
+  },
+  "6054ddea5221e30057500fe9": {
+    "name": "Meso M2 Relic",
+    "slug": "meso_m2_relic",
+    "vaulted": true
+  },
+  "6054ddeb5221e30057500fea": {
+    "name": "Meso A1 Relic",
+    "slug": "meso_a1_relic",
+    "vaulted": true
+  },
+  "6054ddec5221e30057500feb": {
+    "name": "Meso Z2 Relic",
+    "slug": "meso_z2_relic",
+    "vaulted": true
+  },
+  "6054dded5221e30057500fec": {
+    "name": "Meso P1 Relic",
+    "slug": "meso_p1_relic",
+    "vaulted": true
+  },
+  "6054dded5221e30057500fed": {
+    "name": "Meso B3 Relic",
+    "slug": "meso_b3_relic",
+    "vaulted": true
+  },
+  "6054ddee5221e30057500fee": {
+    "name": "Meso C2 Relic",
+    "slug": "meso_c2_relic",
+    "vaulted": true
+  },
+  "6054ddef5221e30057500fef": {
+    "name": "Meso O3 Relic",
+    "slug": "meso_o3_relic",
+    "vaulted": true
+  },
+  "6054ddf05221e30057500ff0": {
+    "name": "Meso S7 Relic",
+    "slug": "meso_s7_relic",
+    "vaulted": true
+  },
+  "6054ddf15221e30057500ff1": {
+    "name": "Meso B2 Relic",
+    "slug": "meso_b2_relic",
+    "vaulted": true
+  },
+  "6054ddf25221e30057500ff2": {
+    "name": "Meso Z1 Relic",
+    "slug": "meso_z1_relic",
+    "vaulted": true
+  },
+  "6054ddf35221e30057500ff3": {
+    "name": "Meso D2 Relic",
+    "slug": "meso_d2_relic",
+    "vaulted": true
+  },
+  "6054ddf35221e30057500ff4": {
+    "name": "Meso F1 Relic",
+    "slug": "meso_f1_relic",
+    "vaulted": true
+  },
+  "6054ddf45221e30057500ff5": {
+    "name": "Meso S2 Relic",
+    "slug": "meso_s2_relic",
+    "vaulted": true
+  },
+  "6054ddf75221e30057500ff6": {
+    "name": "Meso L1 Relic",
+    "slug": "meso_l1_relic",
+    "vaulted": true
+  },
+  "6054ddf85221e30057500ff7": {
+    "name": "Meso C4 Relic",
+    "slug": "meso_c4_relic",
+    "vaulted": true
+  },
+  "6054ddf95221e30057500ff8": {
+    "name": "Meso R2 Relic",
+    "slug": "meso_r2_relic",
+    "vaulted": true
+  },
+  "6054ddf95221e30057500ff9": {
+    "name": "Meso N9 Relic",
+    "slug": "meso_n9_relic",
+    "vaulted": true
+  },
+  "6054ddfa5221e30057500ffa": {
+    "name": "Meso B4 Relic",
+    "slug": "meso_b4_relic",
+    "vaulted": true
+  },
+  "6054ddfb5221e30057500ffb": {
+    "name": "Meso I1 Relic",
+    "slug": "meso_i1_relic",
+    "vaulted": true
+  },
+  "6054ddfc5221e30057500ffc": {
+    "name": "Meso K3 Relic",
+    "slug": "meso_k3_relic",
+    "vaulted": true
+  },
+  "6054ddfc5221e30057500ffd": {
+    "name": "Meso N10 Relic",
+    "slug": "meso_n10_relic",
+    "vaulted": true
+  },
+  "6054ddfd5221e30057500ffe": {
+    "name": "Meso P3 Relic",
+    "slug": "meso_p3_relic",
+    "vaulted": true
+  },
+  "6054ddfe5221e30057500fff": {
+    "name": "Meso P2 Relic",
+    "slug": "meso_p2_relic",
+    "vaulted": true
+  },
+  "6054ddfe5221e30057501000": {
+    "name": "Meso S1 Relic",
+    "slug": "meso_s1_relic",
+    "vaulted": true
+  },
+  "6054ddff5221e30057501001": {
+    "name": "Meso G1 Relic",
+    "slug": "meso_g1_relic",
+    "vaulted": true
+  },
+  "6054de005221e30057501002": {
+    "name": "Meso C3 Relic",
+    "slug": "meso_c3_relic",
+    "vaulted": true
+  },
+  "6054de015221e30057501003": {
+    "name": "Meso N5 Relic",
+    "slug": "meso_n5_relic",
+    "vaulted": true
+  },
+  "6054de025221e30057501004": {
+    "name": "Meso V1 Relic",
+    "slug": "meso_v1_relic",
+    "vaulted": true
+  },
+  "6054de045221e30057501005": {
+    "name": "Meso B1 Relic",
+    "slug": "meso_b1_relic",
+    "vaulted": true
+  },
+  "6054de055221e30057501006": {
+    "name": "Meso E2 Relic",
+    "slug": "meso_e2_relic",
+    "vaulted": true
+  },
+  "6054de065221e30057501007": {
+    "name": "Meso Z3 Relic",
+    "slug": "meso_z3_relic",
+    "vaulted": true
+  },
+  "6054de065221e30057501008": {
+    "name": "Meso M3 Relic",
+    "slug": "meso_m3_relic",
+    "vaulted": true
+  },
+  "6054de075221e30057501009": {
+    "name": "Meso F3 Relic",
+    "slug": "meso_f3_relic",
+    "vaulted": true
+  },
+  "6054de085221e3005750100a": {
+    "name": "Meso E1 Relic",
+    "slug": "meso_e1_relic",
+    "vaulted": true
+  },
+  "6054de095221e3005750100b": {
+    "name": "Meso N2 Relic",
+    "slug": "meso_n2_relic",
+    "vaulted": true
+  },
+  "6054de0a5221e3005750100c": {
+    "name": "Meso V2 Relic",
+    "slug": "meso_v2_relic",
+    "vaulted": true
+  },
+  "6054de0c5221e3005750100d": {
+    "name": "Meso R1 Relic",
+    "slug": "meso_r1_relic",
+    "vaulted": true
+  },
+  "6054de0d5221e3005750100e": {
+    "name": "Meso D3 Relic",
+    "slug": "meso_d3_relic",
+    "vaulted": true
+  },
+  "6054de0e5221e3005750100f": {
+    "name": "Meso T3 Relic",
+    "slug": "meso_t3_relic",
+    "vaulted": true
+  },
+  "6054de0e5221e30057501010": {
+    "name": "Meso S8 Relic",
+    "slug": "meso_s8_relic",
+    "vaulted": true
+  },
+  "6054de0f5221e30057501011": {
+    "name": "Meso C1 Relic",
+    "slug": "meso_c1_relic",
+    "vaulted": true
+  },
+  "6054de105221e30057501012": {
+    "name": "Meso E5 Relic",
+    "slug": "meso_e5_relic",
+    "vaulted": true
+  },
+  "6054de115221e30057501013": {
+    "name": "Meso N1 Relic",
+    "slug": "meso_n1_relic",
+    "vaulted": true
+  },
+  "6054de125221e30057501014": {
+    "name": "Meso E3 Relic",
+    "slug": "meso_e3_relic",
+    "vaulted": true
+  },
+  "6054de135221e30057501015": {
+    "name": "Meso D4 Relic",
+    "slug": "meso_d4_relic",
+    "vaulted": true
+  },
+  "6054de145221e30057501016": {
+    "name": "Meso W1 Relic",
+    "slug": "meso_w1_relic",
+    "vaulted": true
+  },
+  "6054de145221e30057501017": {
+    "name": "Meso V6 Relic",
+    "slug": "meso_v6_relic",
+    "vaulted": true
+  },
+  "6054de155221e30057501018": {
+    "name": "Meso S9 Relic",
+    "slug": "meso_s9_relic",
+    "vaulted": true
+  },
+  "6054de165221e30057501019": {
+    "name": "Meso D1 Relic",
+    "slug": "meso_d1_relic",
+    "vaulted": true
+  },
+  "6054de175221e3005750101a": {
+    "name": "Lith H2 Relic",
+    "slug": "lith_h2_relic",
+    "vaulted": true
+  },
+  "6054de185221e3005750101b": {
+    "name": "Lith Z1 Relic",
+    "slug": "lith_z1_relic",
+    "vaulted": true
+  },
+  "6054de195221e3005750101c": {
+    "name": "Lith B1 Relic",
+    "slug": "lith_b1_relic",
+    "vaulted": true
+  },
+  "6054de1a5221e3005750101d": {
+    "name": "Lith A2 Relic",
+    "slug": "lith_a2_relic",
+    "vaulted": true
+  },
+  "6054de1b5221e3005750101e": {
+    "name": "Lith L1 Relic",
+    "slug": "lith_l1_relic",
+    "vaulted": true
+  },
+  "6054de1b5221e3005750101f": {
+    "name": "Lith W1 Relic",
+    "slug": "lith_w1_relic",
+    "vaulted": true
+  },
+  "6054de1c5221e30057501020": {
+    "name": "Lith V4 Relic",
+    "slug": "lith_v4_relic",
+    "vaulted": true
+  },
+  "6054de1d5221e30057501021": {
+    "name": "Lith S6 Relic",
+    "slug": "lith_s6_relic",
+    "vaulted": true
+  },
+  "6054de1e5221e30057501022": {
+    "name": "Lith N3 Relic",
+    "slug": "lith_n3_relic",
+    "vaulted": true
+  },
+  "6054de1f5221e30057501023": {
+    "name": "Lith N4 Relic",
+    "slug": "lith_n4_relic",
+    "vaulted": true
+  },
+  "6054de205221e30057501024": {
+    "name": "Lith M5 Relic",
+    "slug": "lith_m5_relic",
+    "vaulted": true
+  },
+  "6054de215221e30057501025": {
+    "name": "Lith C6 Relic",
+    "slug": "lith_c6_relic",
+    "vaulted": true
+  },
+  "6054de225221e30057501026": {
+    "name": "Lith C5 Relic",
+    "slug": "lith_c5_relic",
+    "vaulted": true
+  },
+  "6054de235221e30057501027": {
+    "name": "Lith V6 Relic",
+    "slug": "lith_v6_relic",
+    "vaulted": true
+  },
+  "6054de245221e30057501028": {
+    "name": "Lith V3 Relic",
+    "slug": "lith_v3_relic",
+    "vaulted": true
+  },
+  "6054de255221e30057501029": {
+    "name": "Lith B4 Relic",
+    "slug": "lith_b4_relic",
+    "vaulted": true
+  },
+  "6054de275221e3005750102a": {
+    "name": "Lith N2 Relic",
+    "slug": "lith_n2_relic",
+    "vaulted": true
+  },
+  "6054de275221e3005750102b": {
+    "name": "Lith G1 Relic",
+    "slug": "lith_g1_relic",
+    "vaulted": true
+  },
+  "6054de295221e3005750102c": {
+    "name": "Lith I1 Relic",
+    "slug": "lith_i1_relic",
+    "vaulted": true
+  },
+  "6054de295221e3005750102d": {
+    "name": "Lith T5 Relic",
+    "slug": "lith_t5_relic",
+    "vaulted": true
+  },
+  "6054de2a5221e3005750102e": {
+    "name": "Lith G3 Relic",
+    "slug": "lith_g3_relic",
+    "vaulted": true
+  },
+  "6054de2a5221e3005750102f": {
+    "name": "Lith B8 Relic",
+    "slug": "lith_b8_relic",
+    "vaulted": true
+  },
+  "6054de2b5221e30057501030": {
+    "name": "Lith D4 Relic",
+    "slug": "lith_d4_relic",
+    "vaulted": true
+  },
+  "6054de2c5221e30057501031": {
+    "name": "Lith T3 Relic",
+    "slug": "lith_t3_relic",
+    "vaulted": true
+  },
+  "6054de2c5221e30057501032": {
+    "name": "Lith S9 Relic",
+    "slug": "lith_s9_relic",
+    "vaulted": true
+  },
+  "6054de2d5221e30057501033": {
+    "name": "Lith S5 Relic",
+    "slug": "lith_s5_relic",
+    "vaulted": true
+  },
+  "6054de2e5221e30057501034": {
+    "name": "Lith C7 Relic",
+    "slug": "lith_c7_relic",
+    "vaulted": false
+  },
+  "6054de2e5221e30057501035": {
+    "name": "Lith K4 Relic",
+    "slug": "lith_k4_relic",
+    "vaulted": true
+  },
+  "6054de2f5221e30057501036": {
+    "name": "Lith T4 Relic",
+    "slug": "lith_t4_relic",
+    "vaulted": true
+  },
+  "6054de305221e30057501037": {
+    "name": "Lith N6 Relic",
+    "slug": "lith_n6_relic",
+    "vaulted": true
+  },
+  "6054de305221e30057501038": {
+    "name": "Lith B7 Relic",
+    "slug": "lith_b7_relic",
+    "vaulted": true
+  },
+  "6054de315221e30057501039": {
+    "name": "Lith P5 Relic",
+    "slug": "lith_p5_relic",
+    "vaulted": true
+  },
+  "6054de325221e3005750103a": {
+    "name": "Lith D3 Relic",
+    "slug": "lith_d3_relic",
+    "vaulted": true
+  },
+  "6054de335221e3005750103b": {
+    "name": "Lith N5 Relic",
+    "slug": "lith_n5_relic",
+    "vaulted": true
+  },
+  "6054de335221e3005750103c": {
+    "name": "Lith P4 Relic",
+    "slug": "lith_p4_relic",
+    "vaulted": true
+  },
+  "6054de345221e3005750103d": {
+    "name": "Lith S4 Relic",
+    "slug": "lith_s4_relic",
+    "vaulted": true
+  },
+  "6054de355221e3005750103e": {
+    "name": "Lith S7 Relic",
+    "slug": "lith_s7_relic",
+    "vaulted": true
+  },
+  "6054de365221e3005750103f": {
+    "name": "Lith C2 Relic",
+    "slug": "lith_c2_relic",
+    "vaulted": true
+  },
+  "6054de385221e30057501040": {
+    "name": "Lith K2 Relic",
+    "slug": "lith_k2_relic",
+    "vaulted": true
+  },
+  "6054de395221e30057501041": {
+    "name": "Lith B6 Relic",
+    "slug": "lith_b6_relic",
+    "vaulted": true
+  },
+  "6054de3a5221e30057501042": {
+    "name": "Lith M3 Relic",
+    "slug": "lith_m3_relic",
+    "vaulted": true
+  },
+  "6054de3b5221e30057501043": {
+    "name": "Lith C4 Relic",
+    "slug": "lith_c4_relic",
+    "vaulted": true
+  },
+  "6054de3c5221e30057501044": {
+    "name": "Lith M2 Relic",
+    "slug": "lith_m2_relic",
+    "vaulted": true
+  },
+  "6054de3d5221e30057501045": {
+    "name": "Lith V2 Relic",
+    "slug": "lith_v2_relic",
+    "vaulted": true
+  },
+  "6054de3f5221e30057501046": {
+    "name": "Lith O2 Relic",
+    "slug": "lith_o2_relic",
+    "vaulted": true
+  },
+  "6054de405221e30057501047": {
+    "name": "Lith P1 Relic",
+    "slug": "lith_p1_relic",
+    "vaulted": true
+  },
+  "6054de415221e30057501048": {
+    "name": "Lith T2 Relic",
+    "slug": "lith_t2_relic",
+    "vaulted": true
+  },
+  "6054de415221e30057501049": {
+    "name": "Lith V5 Relic",
+    "slug": "lith_v5_relic",
+    "vaulted": true
+  },
+  "6054de425221e3005750104a": {
+    "name": "Lith B3 Relic",
+    "slug": "lith_b3_relic",
+    "vaulted": true
+  },
+  "6054de435221e3005750104b": {
+    "name": "Lith N1 Relic",
+    "slug": "lith_n1_relic",
+    "vaulted": true
+  },
+  "6054de455221e3005750104c": {
+    "name": "Lith K1 Relic",
+    "slug": "lith_k1_relic",
+    "vaulted": true
+  },
+  "6054de455221e3005750104d": {
+    "name": "Lith C1 Relic",
+    "slug": "lith_c1_relic",
+    "vaulted": true
+  },
+  "6054de465221e3005750104e": {
+    "name": "Lith W2 Relic",
+    "slug": "lith_w2_relic",
+    "vaulted": true
+  },
+  "6054de475221e3005750104f": {
+    "name": "Lith S10 Relic",
+    "slug": "lith_s10_relic",
+    "vaulted": true
+  },
+  "6054de485221e30057501050": {
+    "name": "Lith P3 Relic",
+    "slug": "lith_p3_relic",
+    "vaulted": true
+  },
+  "6054de495221e30057501051": {
+    "name": "Lith D2 Relic",
+    "slug": "lith_d2_relic",
+    "vaulted": true
+  },
+  "6054de495221e30057501052": {
+    "name": "Lith M6 Relic",
+    "slug": "lith_m6_relic",
+    "vaulted": true
+  },
+  "6054de4a5221e30057501053": {
+    "name": "Lith S3 Relic",
+    "slug": "lith_s3_relic",
+    "vaulted": true
+  },
+  "6054de4b5221e30057501054": {
+    "name": "Lith H1 Relic",
+    "slug": "lith_h1_relic",
+    "vaulted": true
+  },
+  "6054de4c5221e30057501055": {
+    "name": "Lith B2 Relic",
+    "slug": "lith_b2_relic",
+    "vaulted": true
+  },
+  "6054de4d5221e30057501056": {
+    "name": "Lith T1 Relic",
+    "slug": "lith_t1_relic",
+    "vaulted": true
+  },
+  "6054de4e5221e30057501057": {
+    "name": "Lith A1 Relic",
+    "slug": "lith_a1_relic",
+    "vaulted": true
+  },
+  "6054de4f5221e30057501058": {
+    "name": "Lith M1 Relic",
+    "slug": "lith_m1_relic",
+    "vaulted": true
+  },
+  "6054de505221e30057501059": {
+    "name": "Lith P2 Relic",
+    "slug": "lith_p2_relic",
+    "vaulted": true
+  },
+  "6054de515221e3005750105a": {
+    "name": "Lith A3 Relic",
+    "slug": "lith_a3_relic",
+    "vaulted": true
+  },
+  "6054de525221e3005750105b": {
+    "name": "Lith M4 Relic",
+    "slug": "lith_m4_relic",
+    "vaulted": true
+  },
+  "6054de535221e3005750105c": {
+    "name": "Lith G2 Relic",
+    "slug": "lith_g2_relic",
+    "vaulted": true
+  },
+  "6054de545221e3005750105d": {
+    "name": "Lith F2 Relic",
+    "slug": "lith_f2_relic",
+    "vaulted": true
+  },
+  "6054de555221e3005750105e": {
+    "name": "Lith V1 Relic",
+    "slug": "lith_v1_relic",
+    "vaulted": true
+  },
+  "6054de565221e3005750105f": {
+    "name": "Lith B5 Relic",
+    "slug": "lith_b5_relic",
+    "vaulted": true
+  },
+  "6054de575221e30057501060": {
+    "name": "Lith C3 Relic",
+    "slug": "lith_c3_relic",
+    "vaulted": true
+  },
+  "6054de585221e30057501061": {
+    "name": "Lith Z2 Relic",
+    "slug": "lith_z2_relic",
+    "vaulted": true
+  },
+  "6054de595221e30057501062": {
+    "name": "Lith O1 Relic",
+    "slug": "lith_o1_relic",
+    "vaulted": true
+  },
+  "6054de5a5221e30057501063": {
+    "name": "Lith F1 Relic",
+    "slug": "lith_f1_relic",
+    "vaulted": true
+  },
+  "6054de5b5221e30057501064": {
+    "name": "Lith M7 Relic",
+    "slug": "lith_m7_relic",
+    "vaulted": true
+  },
+  "6054de5c5221e30057501065": {
+    "name": "Lith K5 Relic",
+    "slug": "lith_k5_relic",
+    "vaulted": true
+  },
+  "6054de5d5221e30057501066": {
+    "name": "Lith S2 Relic",
+    "slug": "lith_s2_relic",
+    "vaulted": true
+  },
+  "6054de5e5221e30057501067": {
+    "name": "Lith K3 Relic",
+    "slug": "lith_k3_relic",
+    "vaulted": true
+  },
+  "6054de5f5221e30057501068": {
+    "name": "Lith D1 Relic",
+    "slug": "lith_d1_relic",
+    "vaulted": true
+  },
+  "6054de605221e30057501069": {
+    "name": "Lith L2 Relic",
+    "slug": "lith_l2_relic",
+    "vaulted": true
+  },
+  "6054de605221e3005750106a": {
+    "name": "Lith S8 Relic",
+    "slug": "lith_s8_relic",
+    "vaulted": true
+  },
+  "6054de615221e3005750106b": {
+    "name": "Lith V8 Relic",
+    "slug": "lith_v8_relic",
+    "vaulted": true
+  },
+  "6054de625221e3005750106c": {
+    "name": "Lith V7 Relic",
+    "slug": "lith_v7_relic",
+    "vaulted": true
+  },
+  "6054de635221e3005750106d": {
+    "name": "Lith S1 Relic",
+    "slug": "lith_s1_relic",
+    "vaulted": true
+  },
+  "6089662dea9374026927178a": {
+    "name": "Axi G5 Relic",
+    "slug": "axi_g5_relic",
+    "vaulted": true
+  },
+  "6089662dea9374026927178b": {
+    "name": "Neo K3 Relic",
+    "slug": "neo_k3_relic",
+    "vaulted": true
+  },
+  "6089662dea9374026927178c": {
+    "name": "Neo Z8 Relic",
+    "slug": "neo_z8_relic",
+    "vaulted": true
+  },
+  "6089662eea9374026927178d": {
+    "name": "Meso R4 Relic",
+    "slug": "meso_r4_relic",
+    "vaulted": true
+  },
+  "6089662eea9374026927178e": {
+    "name": "Lith C8 Relic",
+    "slug": "lith_c8_relic",
+    "vaulted": true
+  },
+  "6089662eea9374026927178f": {
+    "name": "Lith T6 Relic",
+    "slug": "lith_t6_relic",
+    "vaulted": true
+  },
+  "60ad4a1bf1904300d012c6f6": {
+    "name": "Meso P5 Relic",
+    "slug": "meso_p5_relic",
+    "vaulted": true
+  },
+  "60ad4a1bf1904300d012c6f7": {
+    "name": "Lith K6 Relic",
+    "slug": "lith_k6_relic",
+    "vaulted": true
+  },
+  "60ad4a1bf1904300d012c6f8": {
+    "name": "Axi G6 Relic",
+    "slug": "axi_g6_relic",
+    "vaulted": true
+  },
+  "60ad4a1bf1904300d012c6fb": {
+    "name": "Neo T4 Relic",
+    "slug": "neo_t4_relic",
+    "vaulted": true
+  },
+  "60ad4a1bf1904300d012c6fc": {
+    "name": "Meso T5 Relic",
+    "slug": "meso_t5_relic",
+    "vaulted": true
+  },
+  "60ad4a1bf1904300d012c6fd": {
+    "name": "Meso Z4 Relic",
+    "slug": "meso_z4_relic",
+    "vaulted": true
+  },
+  "60ad4a1bf1904300d012c6fe": {
+    "name": "Neo V10 Relic",
+    "slug": "neo_v10_relic",
+    "vaulted": true
+  },
+  "60ad4a1cf1904300d012c705": {
+    "name": "Axi N7 Relic",
+    "slug": "axi_n7_relic",
+    "vaulted": true
+  },
+  "60ad4a1cf1904300d012c709": {
+    "name": "Lith A4 Relic",
+    "slug": "lith_a4_relic",
+    "vaulted": true
+  },
+  "60ad4a1cf1904300d012c70a": {
+    "name": "Axi I1 Relic",
+    "slug": "axi_i1_relic",
+    "vaulted": true
+  },
+  "60ad4a1df1904300d012c70d": {
+    "name": "Neo A5 Relic",
+    "slug": "neo_a5_relic",
+    "vaulted": true
+  },
+  "60cca19052f60b004dfea04a": {
+    "name": "Lith G4 Relic",
+    "slug": "lith_g4_relic",
+    "vaulted": true
+  },
+  "60cca19152f60b004dfea04f": {
+    "name": "Neo D3 Relic",
+    "slug": "neo_d3_relic",
+    "vaulted": true
+  },
+  "60cca19152f60b004dfea052": {
+    "name": "Axi T7 Relic",
+    "slug": "axi_t7_relic",
+    "vaulted": true
+  },
+  "6139101830dd5b004b7f9094": {
+    "name": "Meso B5 Relic",
+    "slug": "meso_b5_relic",
+    "vaulted": true
+  },
+  "6139101830dd5b004b7f9095": {
+    "name": "Neo N17 Relic",
+    "slug": "neo_n17_relic",
+    "vaulted": true
+  },
+  "6139101830dd5b004b7f9097": {
+    "name": "Meso S10 Relic",
+    "slug": "meso_s10_relic",
+    "vaulted": true
+  },
+  "6139101930dd5b004b7f9098": {
+    "name": "Lith K7 Relic",
+    "slug": "lith_k7_relic",
+    "vaulted": true
+  },
+  "6139101930dd5b004b7f9099": {
+    "name": "Lith N8 Relic",
+    "slug": "lith_n8_relic",
+    "vaulted": true
+  },
+  "6139101930dd5b004b7f909a": {
+    "name": "Neo P3 Relic",
+    "slug": "neo_p3_relic",
+    "vaulted": true
+  },
+  "6139101930dd5b004b7f909d": {
+    "name": "Axi M2 Relic",
+    "slug": "axi_m2_relic",
+    "vaulted": true
+  },
+  "6139101930dd5b004b7f90a0": {
+    "name": "Axi I2 Relic",
+    "slug": "axi_i2_relic",
+    "vaulted": true
+  },
+  "6139101a30dd5b004b7f90a3": {
+    "name": "Lith N7 Relic",
+    "slug": "lith_n7_relic",
+    "vaulted": true
+  },
+  "6139101a30dd5b004b7f90a5": {
+    "name": "Meso B6 Relic",
+    "slug": "meso_b6_relic",
+    "vaulted": true
+  },
+  "6139101a30dd5b004b7f90a6": {
+    "name": "Neo T5 Relic",
+    "slug": "neo_t5_relic",
+    "vaulted": true
+  },
+  "6139101a30dd5b004b7f90aa": {
+    "name": "Lith T7 Relic",
+    "slug": "lith_t7_relic",
+    "vaulted": true
+  },
+  "6139101a30dd5b004b7f90ab": {
+    "name": "Axi A14 Relic",
+    "slug": "axi_a14_relic",
+    "vaulted": true
+  },
+  "6139101b30dd5b004b7f90b0": {
+    "name": "Neo N16 Relic",
+    "slug": "neo_n16_relic",
+    "vaulted": true
+  },
+  "61a25ff968fd79003fe3fd55": {
+    "name": "Lith L3 Relic",
+    "slug": "lith_l3_relic",
+    "vaulted": true
+  },
+  "61a25ffa68fd79003fe3fd57": {
+    "name": "Meso B7 Relic",
+    "slug": "meso_b7_relic",
+    "vaulted": true
+  },
+  "61a25ffa68fd79003fe3fd58": {
+    "name": "Meso P6 Relic",
+    "slug": "meso_p6_relic",
+    "vaulted": true
+  },
+  "61a25ffa68fd79003fe3fd59": {
+    "name": "Neo A6 Relic",
+    "slug": "neo_a6_relic",
+    "vaulted": true
+  },
+  "61a25ffa68fd79003fe3fd5a": {
+    "name": "Neo H3 Relic",
+    "slug": "neo_h3_relic",
+    "vaulted": true
+  },
+  "61a25ffa68fd79003fe3fd5b": {
+    "name": "Lith R1 Relic",
+    "slug": "lith_r1_relic",
+    "vaulted": true
+  },
+  "61a25ffa68fd79003fe3fd5d": {
+    "name": "Lith K8 Relic",
+    "slug": "lith_k8_relic",
+    "vaulted": true
+  },
+  "61a25ffa68fd79003fe3fd5e": {
+    "name": "Neo D4 Relic",
+    "slug": "neo_d4_relic",
+    "vaulted": true
+  },
+  "61a25ffa68fd79003fe3fd5f": {
+    "name": "Axi D3 Relic",
+    "slug": "axi_d3_relic",
+    "vaulted": true
+  },
+  "61a25ffa68fd79003fe3fd60": {
+    "name": "Axi M3 Relic",
+    "slug": "axi_m3_relic",
+    "vaulted": true
+  },
+  "61a25ffa68fd79003fe3fd61": {
+    "name": "Lith N9 Relic",
+    "slug": "lith_n9_relic",
+    "vaulted": true
+  },
+  "61bb64fb3132ff00482b5fb1": {
+    "name": "Axi P4 Relic",
+    "slug": "axi_p4_relic",
+    "vaulted": true
+  },
+  "61bb64fb3132ff00482b5fb5": {
+    "name": "Meso A3 Relic",
+    "slug": "meso_a3_relic",
+    "vaulted": true
+  },
+  "61bb64fb3132ff00482b5fb6": {
+    "name": "Axi S9 Relic",
+    "slug": "axi_s9_relic",
+    "vaulted": true
+  },
+  "61bb64fb3132ff00482b5fb9": {
+    "name": "Lith T8 Relic",
+    "slug": "lith_t8_relic",
+    "vaulted": true
+  },
+  "61bb64fc3132ff00482b5fbc": {
+    "name": "Meso G3 Relic",
+    "slug": "meso_g3_relic",
+    "vaulted": true
+  },
+  "61bb64fc3132ff00482b5fbd": {
+    "name": "Meso I2 Relic",
+    "slug": "meso_i2_relic",
+    "vaulted": true
+  },
+  "61bb64fd3132ff00482b5fc1": {
+    "name": "Axi T8 Relic",
+    "slug": "axi_t8_relic",
+    "vaulted": true
+  },
+  "61bb64fd3132ff00482b5fc2": {
+    "name": "Lith H3 Relic",
+    "slug": "lith_h3_relic",
+    "vaulted": true
+  },
+  "61bb64fd3132ff00482b5fc3": {
+    "name": "Axi C7 Relic",
+    "slug": "axi_c7_relic",
+    "vaulted": true
+  },
+  "61bb64fd3132ff00482b5fc8": {
+    "name": "Lith S11 Relic",
+    "slug": "lith_s11_relic",
+    "vaulted": true
+  },
+  "61bb64fd3132ff00482b5fc9": {
+    "name": "Neo K4 Relic",
+    "slug": "neo_k4_relic",
+    "vaulted": true
+  },
+  "61bb64fd3132ff00482b5fca": {
+    "name": "Neo N18 Relic",
+    "slug": "neo_n18_relic",
+    "vaulted": true
+  },
+  "61bb64fd3132ff00482b5fcc": {
+    "name": "Lith T9 Relic",
+    "slug": "lith_t9_relic",
+    "vaulted": true
+  },
+  "61bb64fe3132ff00482b5fd1": {
+    "name": "Axi K6 Relic",
+    "slug": "axi_k6_relic",
+    "vaulted": true
+  },
+  "61bb64fe3132ff00482b5fd3": {
+    "name": "Lith C9 Relic",
+    "slug": "lith_c9_relic",
+    "vaulted": true
+  },
+  "61bb64fe3132ff00482b5fd7": {
+    "name": "Meso S11 Relic",
+    "slug": "meso_s11_relic",
+    "vaulted": true
+  },
+  "6214e88fe3c4660048a8b97f": {
+    "name": "Neo P4 Relic",
+    "slug": "neo_p4_relic",
+    "vaulted": true
+  },
+  "6214e890e3c4660048a8b984": {
+    "name": "Lith N10 Relic",
+    "slug": "lith_n10_relic",
+    "vaulted": true
+  },
+  "6242037666a58f0108c3d47b": {
+    "name": "Lith N11 Relic",
+    "slug": "lith_n11_relic",
+    "vaulted": true
+  },
+  "6242037666a58f0108c3d47d": {
+    "name": "Axi K7 Relic",
+    "slug": "axi_k7_relic",
+    "vaulted": true
+  },
+  "6242037666a58f0108c3d47e": {
+    "name": "Lith S12 Relic",
+    "slug": "lith_s12_relic",
+    "vaulted": true
+  },
+  "6242037666a58f0108c3d483": {
+    "name": "Lith H4 Relic",
+    "slug": "lith_h4_relic",
+    "vaulted": true
+  },
+  "6242037766a58f0108c3d487": {
+    "name": "Meso G4 Relic",
+    "slug": "meso_g4_relic",
+    "vaulted": true
+  },
+  "6242037766a58f0108c3d488": {
+    "name": "Axi S11 Relic",
+    "slug": "axi_s11_relic",
+    "vaulted": true
+  },
+  "6242037766a58f0108c3d489": {
+    "name": "Lith Z3 Relic",
+    "slug": "lith_z3_relic",
+    "vaulted": true
+  },
+  "6242037766a58f0108c3d48b": {
+    "name": "Axi S10 Relic",
+    "slug": "axi_s10_relic",
+    "vaulted": true
+  },
+  "6242037766a58f0108c3d48c": {
+    "name": "Lith G5 Relic",
+    "slug": "lith_g5_relic",
+    "vaulted": true
+  },
+  "6242037766a58f0108c3d48d": {
+    "name": "Meso P7 Relic",
+    "slug": "meso_p7_relic",
+    "vaulted": true
+  },
+  "6242037766a58f0108c3d48e": {
+    "name": "Lith N12 Relic",
+    "slug": "lith_n12_relic",
+    "vaulted": true
+  },
+  "6242037766a58f0108c3d491": {
+    "name": "Neo N20 Relic",
+    "slug": "neo_n20_relic",
+    "vaulted": true
+  },
+  "6242037766a58f0108c3d493": {
+    "name": "Meso N12 Relic",
+    "slug": "meso_n12_relic",
+    "vaulted": true
+  },
+  "6242037766a58f0108c3d494": {
+    "name": "Axi G7 Relic",
+    "slug": "axi_g7_relic",
+    "vaulted": true
+  },
+  "6242037866a58f0108c3d495": {
+    "name": "Neo C2 Relic",
+    "slug": "neo_c2_relic",
+    "vaulted": true
+  },
+  "6242037866a58f0108c3d496": {
+    "name": "Neo M4 Relic",
+    "slug": "neo_m4_relic",
+    "vaulted": true
+  },
+  "62d3493f75156700ce450de8": {
+    "name": "Axi K10 Relic",
+    "slug": "axi_k10_relic",
+    "vaulted": true
+  },
+  "62d3493f75156700ce450de9": {
+    "name": "Axi N8 Relic",
+    "slug": "axi_n8_relic",
+    "vaulted": true
+  },
+  "62d3493f75156700ce450dea": {
+    "name": "Meso O5 Relic",
+    "slug": "meso_o5_relic",
+    "vaulted": true
+  },
+  "62d3493f75156700ce450deb": {
+    "name": "Meso P8 Relic",
+    "slug": "meso_p8_relic",
+    "vaulted": true
+  },
+  "62d3493f75156700ce450dec": {
+    "name": "Neo N21 Relic",
+    "slug": "neo_n21_relic",
+    "vaulted": true
+  },
+  "62d3494075156700ce450def": {
+    "name": "Axi K9 Relic",
+    "slug": "axi_k9_relic",
+    "vaulted": true
+  },
+  "62d3494075156700ce450df1": {
+    "name": "Axi G8 Relic",
+    "slug": "axi_g8_relic",
+    "vaulted": true
+  },
+  "62d3494075156700ce450df2": {
+    "name": "Meso H3 Relic",
+    "slug": "meso_h3_relic",
+    "vaulted": true
+  },
+  "62d3494075156700ce450df6": {
+    "name": "Neo G4 Relic",
+    "slug": "neo_g4_relic",
+    "vaulted": true
+  },
+  "62d3494075156700ce450df8": {
+    "name": "Neo D5 Relic",
+    "slug": "neo_d5_relic",
+    "vaulted": true
+  },
+  "62d3494075156700ce450df9": {
+    "name": "Lith K9 Relic",
+    "slug": "lith_k9_relic",
+    "vaulted": true
+  },
+  "62d3494075156700ce450dfa": {
+    "name": "Axi K8 Relic",
+    "slug": "axi_k8_relic",
+    "vaulted": true
+  },
+  "62d3494175156700ce450dfc": {
+    "name": "Meso H2 Relic",
+    "slug": "meso_h2_relic",
+    "vaulted": true
+  },
+  "62d3494175156700ce450dfe": {
+    "name": "Meso V7 Relic",
+    "slug": "meso_v7_relic",
+    "vaulted": true
+  },
+  "62d3494175156700ce450e01": {
+    "name": "Neo S15 Relic",
+    "slug": "neo_s15_relic",
+    "vaulted": true
+  },
+  "62d3494175156700ce450e02": {
+    "name": "Axi S12 Relic",
+    "slug": "axi_s12_relic",
+    "vaulted": true
+  },
+  "63229385dd457f0096113c3d": {
+    "name": "Lith N13 Relic",
+    "slug": "lith_n13_relic",
+    "vaulted": true
+  },
+  "63229385dd457f0096113c3e": {
+    "name": "Neo Z9 Relic",
+    "slug": "neo_z9_relic",
+    "vaulted": true
+  },
+  "63229385dd457f0096113c40": {
+    "name": "Meso W2 Relic",
+    "slug": "meso_w2_relic",
+    "vaulted": true
+  },
+  "63229385dd457f0096113c41": {
+    "name": "Neo E3 Relic",
+    "slug": "neo_e3_relic",
+    "vaulted": true
+  },
+  "63229386dd457f0096113c44": {
+    "name": "Axi T9 Relic",
+    "slug": "axi_t9_relic",
+    "vaulted": true
+  },
+  "63229386dd457f0096113c46": {
+    "name": "Lith S13 Relic",
+    "slug": "lith_s13_relic",
+    "vaulted": true
+  },
+  "633e2e69f570d10793afb811": {
+    "name": "Lith H6 Relic",
+    "slug": "lith_h6_relic",
+    "vaulted": true
+  },
+  "633e2e6af570d10793afb813": {
+    "name": "Neo T6 Relic",
+    "slug": "neo_t6_relic",
+    "vaulted": true
+  },
+  "633e2e6af570d10793afb814": {
+    "name": "Meso P10 Relic",
+    "slug": "meso_p10_relic",
+    "vaulted": true
+  },
+  "633e2e6af570d10793afb819": {
+    "name": "Meso N13 Relic",
+    "slug": "meso_n13_relic",
+    "vaulted": true
+  },
+  "633e2e6bf570d10793afb81c": {
+    "name": "Lith P6 Relic",
+    "slug": "lith_p6_relic",
+    "vaulted": true
+  },
+  "633e2e6bf570d10793afb81f": {
+    "name": "Meso K4 Relic",
+    "slug": "meso_k4_relic",
+    "vaulted": true
+  },
+  "633e2e6cf570d10793afb822": {
+    "name": "Lith H5 Relic",
+    "slug": "lith_h5_relic",
+    "vaulted": true
+  },
+  "633e2e6cf570d10793afb823": {
+    "name": "Axi T10 Relic",
+    "slug": "axi_t10_relic",
+    "vaulted": true
+  },
+  "633e2e6cf570d10793afb825": {
+    "name": "Axi N9 Relic",
+    "slug": "axi_n9_relic",
+    "vaulted": true
+  },
+  "633e2e6cf570d10793afb826": {
+    "name": "Lith R2 Relic",
+    "slug": "lith_r2_relic",
+    "vaulted": true
+  },
+  "633e2e6cf570d10793afb828": {
+    "name": "Meso P9 Relic",
+    "slug": "meso_p9_relic",
+    "vaulted": true
+  },
+  "633e2e6cf570d10793afb829": {
+    "name": "Lith S14 Relic",
+    "slug": "lith_s14_relic",
+    "vaulted": true
+  },
+  "6364d904f6d2030069a9f91d": {
+    "name": "Lith B9 Relic",
+    "slug": "lith_b9_relic",
+    "vaulted": true
+  },
+  "6364d904f6d2030069a9f91e": {
+    "name": "Axi A15 Relic",
+    "slug": "axi_a15_relic",
+    "vaulted": true
+  },
+  "6364d904f6d2030069a9f91f": {
+    "name": "Axi S13 Relic",
+    "slug": "axi_s13_relic",
+    "vaulted": true
+  },
+  "6364d904f6d2030069a9f920": {
+    "name": "Neo S16 Relic",
+    "slug": "neo_s16_relic",
+    "vaulted": true
+  },
+  "6364d904f6d2030069a9f921": {
+    "name": "Neo I3 Relic",
+    "slug": "neo_i3_relic",
+    "vaulted": true
+  },
+  "6364d904f6d2030069a9f922": {
+    "name": "Meso O6 Relic",
+    "slug": "meso_o6_relic",
+    "vaulted": true
+  },
+  "639a8d9274b02f003889eb6d": {
+    "name": "Lith G6 Relic",
+    "slug": "lith_g6_relic",
+    "vaulted": true
+  },
+  "639a8d9274b02f003889eb6e": {
+    "name": "Axi S14 Relic",
+    "slug": "axi_s14_relic",
+    "vaulted": true
+  },
+  "639a8d9274b02f003889eb6f": {
+    "name": "Meso T6 Relic",
+    "slug": "meso_t6_relic",
+    "vaulted": true
+  },
+  "639a8d9274b02f003889eb70": {
+    "name": "Neo C3 Relic",
+    "slug": "neo_c3_relic",
+    "vaulted": true
+  },
+  "639a8d9374b02f003889eb72": {
+    "name": "Meso A4 Relic",
+    "slug": "meso_a4_relic",
+    "vaulted": true
+  },
+  "639a8d9374b02f003889eb73": {
+    "name": "Axi N10 Relic",
+    "slug": "axi_n10_relic",
+    "vaulted": true
+  },
+  "639a8d9374b02f003889eb74": {
+    "name": "Axi B5 Relic",
+    "slug": "axi_b5_relic",
+    "vaulted": true
+  },
+  "639a8d9374b02f003889eb75": {
+    "name": "Neo A8 Relic",
+    "slug": "neo_a8_relic",
+    "vaulted": true
+  },
+  "639a8d9374b02f003889eb76": {
+    "name": "Meso V8 Relic",
+    "slug": "meso_v8_relic",
+    "vaulted": true
+  },
+  "639a8d9374b02f003889eb78": {
+    "name": "Neo K5 Relic",
+    "slug": "neo_k5_relic",
+    "vaulted": true
+  },
+  "639a8d9374b02f003889eb79": {
+    "name": "Meso K5 Relic",
+    "slug": "meso_k5_relic",
+    "vaulted": true
+  },
+  "639a8d9374b02f003889eb7a": {
+    "name": "Lith V9 Relic",
+    "slug": "lith_v9_relic",
+    "vaulted": true
+  },
+  "639a8d9374b02f003889eb7b": {
+    "name": "Lith B10 Relic",
+    "slug": "lith_b10_relic",
+    "vaulted": true
+  },
+  "639a8d9374b02f003889eb7c": {
+    "name": "Neo A7 Relic",
+    "slug": "neo_a7_relic",
+    "vaulted": true
+  },
+  "639a8d9374b02f003889eb7d": {
+    "name": "Axi G9 Relic",
+    "slug": "axi_g9_relic",
+    "vaulted": true
+  },
+  "639a8d9374b02f003889eb7f": {
+    "name": "Neo D6 Relic",
+    "slug": "neo_d6_relic",
+    "vaulted": true
+  },
+  "639a8d9374b02f003889eb80": {
+    "name": "Axi F1 Relic",
+    "slug": "axi_f1_relic",
+    "vaulted": true
+  },
+  "639a8d9474b02f003889eb82": {
+    "name": "Meso R5 Relic",
+    "slug": "meso_r5_relic",
+    "vaulted": true
+  },
+  "639a8d9474b02f003889eb83": {
+    "name": "Lith A5 Relic",
+    "slug": "lith_a5_relic",
+    "vaulted": true
+  },
+  "639a8d9474b02f003889eb85": {
+    "name": "Lith H7 Relic",
+    "slug": "lith_h7_relic",
+    "vaulted": true
+  },
+  "63ee00fd10125411da49e6ec": {
+    "name": "Lith D5 Relic",
+    "slug": "lith_d5_relic",
+    "vaulted": true
+  },
+  "63ee00fe10125411da49e6f3": {
+    "name": "Lith P7 Relic",
+    "slug": "lith_p7_relic",
+    "vaulted": true
+  },
+  "63ee00ff10125411da49e6f9": {
+    "name": "Neo R5 Relic",
+    "slug": "neo_r5_relic",
+    "vaulted": true
+  },
+  "63ee00ff10125411da49e6fb": {
+    "name": "Neo A9 Relic",
+    "slug": "neo_a9_relic",
+    "vaulted": true
+  },
+  "63ee00ff10125411da49e6fc": {
+    "name": "Meso L2 Relic",
+    "slug": "meso_l2_relic",
+    "vaulted": true
+  },
+  "63ee00ff10125411da49e6fd": {
+    "name": "Axi M4 Relic",
+    "slug": "axi_m4_relic",
+    "vaulted": true
+  },
+  "641264a47d179f02190e41e3": {
+    "name": "Lith S15 Relic",
+    "slug": "lith_s15_relic",
+    "vaulted": true
+  },
+  "641264a47d179f02190e41e4": {
+    "name": "Meso N14 Relic",
+    "slug": "meso_n14_relic",
+    "vaulted": true
+  },
+  "641264a47d179f02190e41e5": {
+    "name": "Lith R3 Relic",
+    "slug": "lith_r3_relic",
+    "vaulted": true
+  },
+  "641264a47d179f02190e41e6": {
+    "name": "Meso D7 Relic",
+    "slug": "meso_d7_relic",
+    "vaulted": true
+  },
+  "641264a47d179f02190e41e7": {
+    "name": "Axi H6 Relic",
+    "slug": "axi_h6_relic",
+    "vaulted": true
+  },
+  "641264a47d179f02190e41e8": {
+    "name": "Lith B11 Relic",
+    "slug": "lith_b11_relic",
+    "vaulted": true
+  },
+  "641264a57d179f02190e41e9": {
+    "name": "Meso S12 Relic",
+    "slug": "meso_s12_relic",
+    "vaulted": true
+  },
+  "641264a57d179f02190e41ea": {
+    "name": "Lith H8 Relic",
+    "slug": "lith_h8_relic",
+    "vaulted": true
+  },
+  "641264a57d179f02190e41eb": {
+    "name": "Meso H4 Relic",
+    "slug": "meso_h4_relic",
+    "vaulted": true
+  },
+  "641264a57d179f02190e41ec": {
+    "name": "Axi G10 Relic",
+    "slug": "axi_g10_relic",
+    "vaulted": true
+  },
+  "641264a57d179f02190e41ed": {
+    "name": "Axi A16 Relic",
+    "slug": "axi_a16_relic",
+    "vaulted": true
+  },
+  "641264a57d179f02190e41ee": {
+    "name": "Neo S17 Relic",
+    "slug": "neo_s17_relic",
+    "vaulted": true
+  },
+  "641264a57d179f02190e41ef": {
+    "name": "Neo N22 Relic",
+    "slug": "neo_n22_relic",
+    "vaulted": true
+  },
+  "641264a57d179f02190e41f0": {
+    "name": "Axi B6 Relic",
+    "slug": "axi_b6_relic",
+    "vaulted": true
+  },
+  "641264a57d179f02190e41f1": {
+    "name": "Axi K11 Relic",
+    "slug": "axi_k11_relic",
+    "vaulted": true
+  },
+  "641264a57d179f02190e41f2": {
+    "name": "Lith K10 Relic",
+    "slug": "lith_k10_relic",
+    "vaulted": true
+  },
+  "641264a57d179f02190e41f3": {
+    "name": "Neo L2 Relic",
+    "slug": "neo_l2_relic",
+    "vaulted": true
+  },
+  "641264a57d179f02190e41f4": {
+    "name": "Meso P11 Relic",
+    "slug": "meso_p11_relic",
+    "vaulted": true
+  },
+  "644b00227ec1900044b97725": {
+    "name": "Lith V10 Relic",
+    "slug": "lith_v10_relic",
+    "vaulted": true
+  },
+  "644b00227ec1900044b97726": {
+    "name": "Meso P12 Relic",
+    "slug": "meso_p12_relic",
+    "vaulted": true
+  },
+  "644b00237ec1900044b9772b": {
+    "name": "Neo A10 Relic",
+    "slug": "neo_a10_relic",
+    "vaulted": true
+  },
+  "644b00237ec1900044b9772c": {
+    "name": "Axi K12 Relic",
+    "slug": "axi_k12_relic",
+    "vaulted": true
+  },
+  "644b00237ec1900044b9772d": {
+    "name": "Axi I3 Relic",
+    "slug": "axi_i3_relic",
+    "vaulted": true
+  },
+  "644b00237ec1900044b9772f": {
+    "name": "Meso C7 Relic",
+    "slug": "meso_c7_relic",
+    "vaulted": true
+  },
+  "64c2aa1466456704eba6ba2b": {
+    "name": "Neo L3 Relic",
+    "slug": "neo_l3_relic",
+    "vaulted": true
+  },
+  "64c2aa1466456704eba6ba2c": {
+    "name": "Meso C8 Relic",
+    "slug": "meso_c8_relic",
+    "vaulted": true
+  },
+  "64c2aa1466456704eba6ba33": {
+    "name": "Neo C4 Relic",
+    "slug": "neo_c4_relic",
+    "vaulted": true
+  },
+  "64c2aa1466456704eba6ba34": {
+    "name": "Neo D7 Relic",
+    "slug": "neo_d7_relic",
+    "vaulted": true
+  },
+  "64c2aa1566456704eba6ba39": {
+    "name": "Neo F2 Relic",
+    "slug": "neo_f2_relic",
+    "vaulted": true
+  },
+  "64c2aa1566456704eba6ba3a": {
+    "name": "Neo N23 Relic",
+    "slug": "neo_n23_relic",
+    "vaulted": true
+  },
+  "64c2aa1566456704eba6ba3b": {
+    "name": "Lith H9 Relic",
+    "slug": "lith_h9_relic",
+    "vaulted": true
+  },
+  "64c2aa1566456704eba6ba3c": {
+    "name": "Meso G5 Relic",
+    "slug": "meso_g5_relic",
+    "vaulted": true
+  },
+  "64c2aa1566456704eba6ba3e": {
+    "name": "Axi W3 Relic",
+    "slug": "axi_w3_relic",
+    "vaulted": true
+  },
+  "64c2aa1566456704eba6ba41": {
+    "name": "Lith W3 Relic",
+    "slug": "lith_w3_relic",
+    "vaulted": true
+  },
+  "64c2aa1566456704eba6ba42": {
+    "name": "Meso P13 Relic",
+    "slug": "meso_p13_relic",
+    "vaulted": true
+  },
+  "64c2aa1666456704eba6ba47": {
+    "name": "Meso K6 Relic",
+    "slug": "meso_k6_relic",
+    "vaulted": true
+  },
+  "64c2aa1666456704eba6ba48": {
+    "name": "Axi H7 Relic",
+    "slug": "axi_h7_relic",
+    "vaulted": true
+  },
+  "64c2aa1666456704eba6ba49": {
+    "name": "Neo T7 Relic",
+    "slug": "neo_t7_relic",
+    "vaulted": true
+  },
+  "64eda5d4facd4806c393e638": {
+    "name": "Lith L4 Relic",
+    "slug": "lith_l4_relic",
+    "vaulted": true
+  },
+  "64eda5d5facd4806c393e63a": {
+    "name": "Axi D4 Relic",
+    "slug": "axi_d4_relic",
+    "vaulted": true
+  },
+  "64eda5d5facd4806c393e63b": {
+    "name": "Meso F4 Relic",
+    "slug": "meso_f4_relic",
+    "vaulted": true
+  },
+  "64eda5d5facd4806c393e63c": {
+    "name": "Neo B8 Relic",
+    "slug": "neo_b8_relic",
+    "vaulted": true
+  },
+  "64eda5d5facd4806c393e63d": {
+    "name": "Lith M8 Relic",
+    "slug": "lith_m8_relic",
+    "vaulted": true
+  },
+  "6530537732327ba8746da72c": {
+    "name": "Lith O3 Relic",
+    "slug": "lith_o3_relic",
+    "vaulted": true
+  },
+  "6530537832327ba8746da72d": {
+    "name": "Lith G7 Relic",
+    "slug": "lith_g7_relic",
+    "vaulted": true
+  },
+  "6530537932327ba8746da72e": {
+    "name": "Meso N15 Relic",
+    "slug": "meso_n15_relic",
+    "vaulted": true
+  },
+  "6530537a32327ba8746da72f": {
+    "name": "Meso Z5 Relic",
+    "slug": "meso_z5_relic",
+    "vaulted": true
+  },
+  "6530537b32327ba8746da730": {
+    "name": "Axi P5 Relic",
+    "slug": "axi_p5_relic",
+    "vaulted": true
+  },
+  "6530538b32327ba8746da731": {
+    "name": "Axi A17 Relic",
+    "slug": "axi_a17_relic",
+    "vaulted": true
+  },
+  "6530539432327ba8746da732": {
+    "name": "Axi L6 Relic",
+    "slug": "axi_l6_relic",
+    "vaulted": true
+  },
+  "6530539632327ba8746da733": {
+    "name": "Axi G12 Relic",
+    "slug": "axi_g12_relic",
+    "vaulted": true
+  },
+  "6530539732327ba8746da734": {
+    "name": "Axi G11 Relic",
+    "slug": "axi_g11_relic",
+    "vaulted": true
+  },
+  "6530539a32327ba8746da735": {
+    "name": "Neo D8 Relic",
+    "slug": "neo_d8_relic",
+    "vaulted": true
+  },
+  "6530539b32327ba8746da736": {
+    "name": "Neo K7 Relic",
+    "slug": "neo_k7_relic",
+    "vaulted": true
+  },
+  "6530539d32327ba8746da737": {
+    "name": "Neo K6 Relic",
+    "slug": "neo_k6_relic",
+    "vaulted": true
+  },
+  "6530539f32327ba8746da738": {
+    "name": "Neo S18 Relic",
+    "slug": "neo_s18_relic",
+    "vaulted": true
+  },
+  "653053a032327ba8746da739": {
+    "name": "Neo Z10 Relic",
+    "slug": "neo_z10_relic",
+    "vaulted": true
+  },
+  "653053a332327ba8746da73a": {
+    "name": "Meso W3 Relic",
+    "slug": "meso_w3_relic",
+    "vaulted": true
+  },
+  "653053a532327ba8746da73b": {
+    "name": "Meso C9 Relic",
+    "slug": "meso_c9_relic",
+    "vaulted": true
+  },
+  "653053a632327ba8746da73c": {
+    "name": "Meso P14 Relic",
+    "slug": "meso_p14_relic",
+    "vaulted": true
+  },
+  "653053a732327ba8746da73d": {
+    "name": "Meso B8 Relic",
+    "slug": "meso_b8_relic",
+    "vaulted": true
+  },
+  "653053a832327ba8746da73e": {
+    "name": "Meso M4 Relic",
+    "slug": "meso_m4_relic",
+    "vaulted": true
+  },
+  "653053a932327ba8746da73f": {
+    "name": "Lith N14 Relic",
+    "slug": "lith_n14_relic",
+    "vaulted": true
+  },
+  "653053ae32327ba8746da740": {
+    "name": "Lith T10 Relic",
+    "slug": "lith_t10_relic",
+    "vaulted": true
+  },
+  "653053b032327ba8746da741": {
+    "name": "Lith C10 Relic",
+    "slug": "lith_c10_relic",
+    "vaulted": true
+  },
+  "653053b132327ba8746da742": {
+    "name": "Lith R4 Relic",
+    "slug": "lith_r4_relic",
+    "vaulted": true
+  },
+  "653053b332327ba8746da743": {
+    "name": "Lith G8 Relic",
+    "slug": "lith_g8_relic",
+    "vaulted": true
+  },
+  "6569fa13b50e1c9fcef9ac10": {
+    "name": "Neo T8 Relic",
+    "slug": "neo_t8_relic",
+    "vaulted": true
+  },
+  "65a7fc7eed5b0d2e3eb462b7": {
+    "name": "Axi A18 Relic",
+    "slug": "axi_a18_relic",
+    "vaulted": true
+  },
+  "65a7fc7eed5b0d2e3eb462b8": {
+    "name": "Axi P6 Relic",
+    "slug": "axi_p6_relic",
+    "vaulted": true
+  },
+  "65a7fc7eed5b0d2e3eb462b9": {
+    "name": "Axi D5 Relic",
+    "slug": "axi_d5_relic",
+    "vaulted": true
+  },
+  "65a7fc7eed5b0d2e3eb462ba": {
+    "name": "Axi B7 Relic",
+    "slug": "axi_b7_relic",
+    "vaulted": true
+  },
+  "65a7fc7eed5b0d2e3eb462bb": {
+    "name": "Neo A11 Relic",
+    "slug": "neo_a11_relic",
+    "vaulted": true
+  },
+  "65a7fc7eed5b0d2e3eb462bc": {
+    "name": "Neo W1 Relic",
+    "slug": "neo_w1_relic",
+    "vaulted": true
+  },
+  "65a7fc7eed5b0d2e3eb462bd": {
+    "name": "Neo F3 Relic",
+    "slug": "neo_f3_relic",
+    "vaulted": true
+  },
+  "65a7fc7eed5b0d2e3eb462be": {
+    "name": "Meso B9 Relic",
+    "slug": "meso_b9_relic",
+    "vaulted": true
+  },
+  "65a7fc7eed5b0d2e3eb462bf": {
+    "name": "Meso G6 Relic",
+    "slug": "meso_g6_relic",
+    "vaulted": true
+  },
+  "65a7fc7eed5b0d2e3eb462c0": {
+    "name": "Meso A5 Relic",
+    "slug": "meso_a5_relic",
+    "vaulted": true
+  },
+  "65a7fc7eed5b0d2e3eb462c1": {
+    "name": "Meso H6 Relic",
+    "slug": "meso_h6_relic",
+    "vaulted": true
+  },
+  "65a7fc7eed5b0d2e3eb462c2": {
+    "name": "Meso H5 Relic",
+    "slug": "meso_h5_relic",
+    "vaulted": true
+  },
+  "65a7fc7fed5b0d2e3eb462c3": {
+    "name": "Lith G10 Relic",
+    "slug": "lith_g10_relic",
+    "vaulted": true
+  },
+  "65a7fc7fed5b0d2e3eb462c4": {
+    "name": "Lith P8 Relic",
+    "slug": "lith_p8_relic",
+    "vaulted": true
+  },
+  "65a7fc7fed5b0d2e3eb462c5": {
+    "name": "Lith G9 Relic",
+    "slug": "lith_g9_relic",
+    "vaulted": true
+  },
+  "65a7fc7fed5b0d2e3eb462c6": {
+    "name": "Lith R5 Relic",
+    "slug": "lith_r5_relic",
+    "vaulted": true
+  },
+  "65a7fc7fed5b0d2e3eb462c7": {
+    "name": "Lith A6 Relic",
+    "slug": "lith_a6_relic",
+    "vaulted": true
+  },
+  "65a7fc7fed5b0d2e3eb462c8": {
+    "name": "Lith C11 Relic",
+    "slug": "lith_c11_relic",
+    "vaulted": true
+  },
+  "65f85b70f51dc116096b6762": {
+    "name": "Axi V11 Relic",
+    "slug": "axi_v11_relic",
+    "vaulted": true
+  },
+  "65f85b70f51dc116096b6763": {
+    "name": "Axi C8 Relic",
+    "slug": "axi_c8_relic",
+    "vaulted": true
+  },
+  "65f85b70f51dc116096b6764": {
+    "name": "Neo P5 Relic",
+    "slug": "neo_p5_relic",
+    "vaulted": true
+  },
+  "65f85b70f51dc116096b6765": {
+    "name": "Meso C10 Relic",
+    "slug": "meso_c10_relic",
+    "vaulted": true
+  },
+  "65f85b70f51dc116096b6766": {
+    "name": "Meso A6 Relic",
+    "slug": "meso_a6_relic",
+    "vaulted": true
+  },
+  "65f85b70f51dc116096b6767": {
+    "name": "Lith G11 Relic",
+    "slug": "lith_g11_relic",
+    "vaulted": true
+  },
+  "65f85b70f51dc116096b6768": {
+    "name": "Lith T11 Relic",
+    "slug": "lith_t11_relic",
+    "vaulted": true
+  },
+  "66325ce6e85cac3856c86cc6": {
+    "name": "Axi B8 Relic",
+    "slug": "axi_b8_relic",
+    "vaulted": true
+  },
+  "66325ce9e85cac3856c86cc8": {
+    "name": "Axi F2 Relic",
+    "slug": "axi_f2_relic",
+    "vaulted": true
+  },
+  "66325ceae85cac3856c86cca": {
+    "name": "Axi P7 Relic",
+    "slug": "axi_p7_relic",
+    "vaulted": true
+  },
+  "66325cebe85cac3856c86ccc": {
+    "name": "Neo M5 Relic",
+    "slug": "neo_m5_relic",
+    "vaulted": true
+  },
+  "66325cece85cac3856c86cce": {
+    "name": "Neo A12 Relic",
+    "slug": "neo_a12_relic",
+    "vaulted": true
+  },
+  "66325cede85cac3856c86cd0": {
+    "name": "Neo P6 Relic",
+    "slug": "neo_p6_relic",
+    "vaulted": true
+  },
+  "66325ceee85cac3856c86cd2": {
+    "name": "Neo O2 Relic",
+    "slug": "neo_o2_relic",
+    "vaulted": true
+  },
+  "66325cefe85cac3856c86cd4": {
+    "name": "Meso W5 Relic",
+    "slug": "meso_w5_relic",
+    "vaulted": true
+  },
+  "66325cf0e85cac3856c86cd6": {
+    "name": "Meso W4 Relic",
+    "slug": "meso_w4_relic",
+    "vaulted": true
+  },
+  "66325cf1e85cac3856c86cd8": {
+    "name": "Meso G7 Relic",
+    "slug": "meso_g7_relic",
+    "vaulted": true
+  },
+  "66325cf2e85cac3856c86cda": {
+    "name": "Meso V9 Relic",
+    "slug": "meso_v9_relic",
+    "vaulted": true
+  },
+  "66325cf2e85cac3856c86cdc": {
+    "name": "Lith T12 Relic",
+    "slug": "lith_t12_relic",
+    "vaulted": true
+  },
+  "66325cf3e85cac3856c86cde": {
+    "name": "Lith P9 Relic",
+    "slug": "lith_p9_relic",
+    "vaulted": true
+  },
+  "667ec83159acb6bf03ebc32b": {
+    "name": "Lith E1 Relic",
+    "slug": "lith_e1_relic",
+    "vaulted": true
+  },
+  "667ec83459acb6bf03ebc32d": {
+    "name": "Lith K11 Relic",
+    "slug": "lith_k11_relic",
+    "vaulted": true
+  },
+  "667ec83659acb6bf03ebc32f": {
+    "name": "Lith H10 Relic",
+    "slug": "lith_h10_relic",
+    "vaulted": true
+  },
+  "667ec83959acb6bf03ebc331": {
+    "name": "Meso S14 Relic",
+    "slug": "meso_s14_relic",
+    "vaulted": true
+  },
+  "667ec83b59acb6bf03ebc333": {
+    "name": "Meso B10 Relic",
+    "slug": "meso_b10_relic",
+    "vaulted": true
+  },
+  "667ec83e59acb6bf03ebc335": {
+    "name": "Meso N16 Relic",
+    "slug": "meso_n16_relic",
+    "vaulted": true
+  },
+  "667ec83f59acb6bf03ebc337": {
+    "name": "Meso S13 Relic",
+    "slug": "meso_s13_relic",
+    "vaulted": true
+  },
+  "667ec84159acb6bf03ebc339": {
+    "name": "Neo G5 Relic",
+    "slug": "neo_g5_relic",
+    "vaulted": true
+  },
+  "667ec84759acb6bf03ebc33c": {
+    "name": "Axi R4 Relic",
+    "slug": "axi_r4_relic",
+    "vaulted": true
+  },
+  "667ec85159acb6bf03ebc33e": {
+    "name": "Axi T11 Relic",
+    "slug": "axi_t11_relic",
+    "vaulted": true
+  },
+  "667ec85359acb6bf03ebc340": {
+    "name": "Axi S15 Relic",
+    "slug": "axi_s15_relic",
+    "vaulted": true
+  },
+  "669bd42a59acb6bf03ebc344": {
+    "name": "Neo G6 Relic",
+    "slug": "neo_g6_relic",
+    "vaulted": true
+  },
+  "66a3a59b2bca759c7edfc9a6": {
+    "name": "Axi M5 Relic",
+    "slug": "axi_m5_relic",
+    "vaulted": true
+  },
+  "66c6097966bbb2aedca69581": {
+    "name": "Axi S17 Relic",
+    "slug": "axi_s17_relic",
+    "vaulted": true
+  },
+  "66c6097b66bbb2aedca69583": {
+    "name": "Axi S16 Relic",
+    "slug": "axi_s16_relic",
+    "vaulted": true
+  },
+  "66c6097c66bbb2aedca69585": {
+    "name": "Axi O6 Relic",
+    "slug": "axi_o6_relic",
+    "vaulted": false
+  },
+  "66c6097d66bbb2aedca69587": {
+    "name": "Neo P7 Relic",
+    "slug": "neo_p7_relic",
+    "vaulted": true
+  },
+  "66c6097e66bbb2aedca69589": {
+    "name": "Neo B9 Relic",
+    "slug": "neo_b9_relic",
+    "vaulted": true
+  },
+  "66c6098266bbb2aedca6958b": {
+    "name": "Neo Z11 Relic",
+    "slug": "neo_z11_relic",
+    "vaulted": true
+  },
+  "66c6098366bbb2aedca6958d": {
+    "name": "Neo G7 Relic",
+    "slug": "neo_g7_relic",
+    "vaulted": true
+  },
+  "66c6098366bbb2aedca6958f": {
+    "name": "Neo A13 Relic",
+    "slug": "neo_a13_relic",
+    "vaulted": false
+  },
+  "66c6098466bbb2aedca69591": {
+    "name": "Neo E4 Relic",
+    "slug": "neo_e4_relic",
+    "vaulted": true
+  },
+  "66c6098566bbb2aedca69593": {
+    "name": "Meso F5 Relic",
+    "slug": "meso_f5_relic",
+    "vaulted": true
+  },
+  "66c6098666bbb2aedca69595": {
+    "name": "Meso A7 Relic",
+    "slug": "meso_a7_relic",
+    "vaulted": false
+  },
+  "66c6098666bbb2aedca69597": {
+    "name": "Meso H7 Relic",
+    "slug": "meso_h7_relic",
+    "vaulted": true
+  },
+  "66c6098766bbb2aedca69599": {
+    "name": "Meso N17 Relic",
+    "slug": "meso_n17_relic",
+    "vaulted": false
+  },
+  "66c6098866bbb2aedca6959b": {
+    "name": "Lith G12 Relic",
+    "slug": "lith_g12_relic",
+    "vaulted": true
+  },
+  "66c6098966bbb2aedca6959d": {
+    "name": "Lith N15 Relic",
+    "slug": "lith_n15_relic",
+    "vaulted": true
+  },
+  "66c6098a66bbb2aedca6959f": {
+    "name": "Lith W4 Relic",
+    "slug": "lith_w4_relic",
+    "vaulted": false
+  },
+  "66c6098b66bbb2aedca695a1": {
+    "name": "Lith C12 Relic",
+    "slug": "lith_c12_relic",
+    "vaulted": true
+  },
+  "672229f51ce4caca2fe98667": {
+    "name": "Lith D6 Relic",
+    "slug": "lith_d6_relic",
+    "vaulted": true
+  },
+  "672229fc1ce4caca2fe98669": {
+    "name": "Meso H8 Relic",
+    "slug": "meso_h8_relic",
+    "vaulted": true
+  },
+  "67222a101ce4caca2fe9866b": {
+    "name": "Neo C5 Relic",
+    "slug": "neo_c5_relic",
+    "vaulted": true
+  },
+  "67222a151ce4caca2fe9866d": {
+    "name": "Neo K8 Relic",
+    "slug": "neo_k8_relic",
+    "vaulted": true
+  },
+  "67222a181ce4caca2fe9866f": {
+    "name": "Axi G13 Relic",
+    "slug": "axi_g13_relic",
+    "vaulted": true
+  },
+  "67222a1c1ce4caca2fe98671": {
+    "name": "Axi N11 Relic",
+    "slug": "axi_n11_relic",
+    "vaulted": true
+  },
+  "6735180cdb3ac2cfade14a81": {
+    "name": "Axi A19 Relic",
+    "slug": "axi_a19_relic",
+    "vaulted": true
+  },
+  "6735180ddb3ac2cfade14a82": {
+    "name": "Axi G14 Relic",
+    "slug": "axi_g14_relic",
+    "vaulted": false
+  },
+  "6735180edb3ac2cfade14a83": {
+    "name": "Axi H8 Relic",
+    "slug": "axi_h8_relic",
+    "vaulted": true
+  },
+  "6735180fdb3ac2cfade14a84": {
+    "name": "Axi T12 Relic",
+    "slug": "axi_t12_relic",
+    "vaulted": true
+  },
+  "67351810db3ac2cfade14a85": {
+    "name": "Neo W2 Relic",
+    "slug": "neo_w2_relic",
+    "vaulted": false
+  },
+  "67351810db3ac2cfade14a86": {
+    "name": "Neo G8 Relic",
+    "slug": "neo_g8_relic",
+    "vaulted": false
+  },
+  "67351811db3ac2cfade14a87": {
+    "name": "Neo Q1 Relic",
+    "slug": "neo_q1_relic",
+    "vaulted": true
+  },
+  "67351812db3ac2cfade14a88": {
+    "name": "Neo L4 Relic",
+    "slug": "neo_l4_relic",
+    "vaulted": true
+  },
+  "67351813db3ac2cfade14a89": {
+    "name": "Meso V10 Relic",
+    "slug": "meso_v10_relic",
+    "vaulted": false
+  },
+  "67351814db3ac2cfade14a8a": {
+    "name": "Meso T7 Relic",
+    "slug": "meso_t7_relic",
+    "vaulted": false
+  },
+  "67351815db3ac2cfade14a8b": {
+    "name": "Meso E6 Relic",
+    "slug": "meso_e6_relic",
+    "vaulted": false
+  },
+  "67351815db3ac2cfade14a8c": {
+    "name": "Meso G8 Relic",
+    "slug": "meso_g8_relic",
+    "vaulted": false
+  },
+  "67351816db3ac2cfade14a8d": {
+    "name": "Lith M9 Relic",
+    "slug": "lith_m9_relic",
+    "vaulted": true
+  },
+  "67351817db3ac2cfade14a8e": {
+    "name": "Lith G13 Relic",
+    "slug": "lith_g13_relic",
+    "vaulted": false
+  },
+  "6735194edb3ac2cfade14a90": {
+    "name": "Lith N16 Relic",
+    "slug": "lith_n16_relic",
+    "vaulted": false
+  },
+  "6735194edb3ac2cfade14a91": {
+    "name": "Lith X1 Relic",
+    "slug": "lith_x1_relic",
+    "vaulted": true
+  },
+  "67acda89125398d92c8bb4f0": {
+    "name": "Axi P9 Relic",
+    "slug": "axi_p9_relic",
+    "vaulted": false
+  },
+  "67acda8a125398d92c8bb4f1": {
+    "name": "Axi M6 Relic",
+    "slug": "axi_m6_relic",
+    "vaulted": false
+  },
+  "67acda8b125398d92c8bb4f2": {
+    "name": "Axi Z2 Relic",
+    "slug": "axi_z2_relic",
+    "vaulted": false
+  },
+  "67acda8b125398d92c8bb4f3": {
+    "name": "Axi F3 Relic",
+    "slug": "axi_f3_relic",
+    "vaulted": false
+  },
+  "67acda8c125398d92c8bb4f4": {
+    "name": "Axi P8 Relic",
+    "slug": "axi_p8_relic",
+    "vaulted": false
+  },
+  "67acda8d125398d92c8bb4f5": {
+    "name": "Neo D9 Relic",
+    "slug": "neo_d9_relic",
+    "vaulted": false
+  },
+  "67acda8e125398d92c8bb4f6": {
+    "name": "Neo T9 Relic",
+    "slug": "neo_t9_relic",
+    "vaulted": false
+  },
+  "67acda8e125398d92c8bb4f7": {
+    "name": "Neo X1 Relic",
+    "slug": "neo_x1_relic",
+    "vaulted": false
+  },
+  "67acda8f125398d92c8bb4f8": {
+    "name": "Neo C6 Relic",
+    "slug": "neo_c6_relic",
+    "vaulted": false
+  },
+  "67acda90125398d92c8bb4f9": {
+    "name": "Meso A8 Relic",
+    "slug": "meso_a8_relic",
+    "vaulted": false
+  },
+  "67acda91125398d92c8bb4fa": {
+    "name": "Lith S16 Relic",
+    "slug": "lith_s16_relic",
+    "vaulted": false
+  },
+  "67acda92125398d92c8bb4fb": {
+    "name": "Lith A7 Relic",
+    "slug": "lith_a7_relic",
+    "vaulted": false
+  },
+  "67acda93125398d92c8bb4fc": {
+    "name": "Lith Q1 Relic",
+    "slug": "lith_q1_relic",
+    "vaulted": false
+  },
+  "67acda93125398d92c8bb4fd": {
+    "name": "Lith L5 Relic",
+    "slug": "lith_l5_relic",
+    "vaulted": false
+  },
+  "67c83ffb646a0f91834334fd": {
+    "name": "Meso P15 Relic",
+    "slug": "meso_p15_relic",
+    "vaulted": false
+  },
+  "67db5f459cec3e52e62523d8": {
+    "name": "Lith S17 Relic",
+    "slug": "lith_s17_relic",
+    "vaulted": true
+  },
+  "67db5f469cec3e52e62523d9": {
+    "name": "Meso S15 Relic",
+    "slug": "meso_s15_relic",
+    "vaulted": true
+  },
+  "67db5f469cec3e52e62523da": {
+    "name": "Meso M5 Relic",
+    "slug": "meso_m5_relic",
+    "vaulted": true
+  },
+  "67db5f479cec3e52e62523db": {
+    "name": "Neo N19 Relic",
+    "slug": "neo_n19_relic",
+    "vaulted": true
+  },
+  "67db5f489cec3e52e62523dc": {
+    "name": "Neo S19 Relic",
+    "slug": "neo_s19_relic",
+    "vaulted": true
+  },
+  "67db5f499cec3e52e62523dd": {
+    "name": "Axi N12 Relic",
+    "slug": "axi_n12_relic",
+    "vaulted": true
+  }
+}
