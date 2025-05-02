@@ -6,8 +6,12 @@ import json
 # === Load validation data and model ===
 
 # Load tensors
-X = torch.load("data/training/X.pt")
-y = torch.load("data/training/y.pt")
+X_tensor = "X_delta"
+y_tensor = "y_delta"
+num_features = 18
+
+X = torch.load(f"data/tensors/{X_tensor}.pt")
+y = torch.load(f"data/tensors/{y_tensor}.pt")
 
 # Load validation split
 from torch.utils.data import DataLoader, TensorDataset, random_split
@@ -30,7 +34,7 @@ class LSTMRegressor(torch.nn.Module):
 
 # Initialize and load saved model
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-model = LSTMRegressor(input_dim=17, hidden_dim=64, num_layers=2)
+model = LSTMRegressor(input_dim=num_features, hidden_dim=64, num_layers=2)
 model.load_state_dict(torch.load("models/lstm_regressor.pt", map_location=device))
 model.to(device)
 model.eval()

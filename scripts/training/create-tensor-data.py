@@ -34,6 +34,7 @@ for slug, content in data.items():
     type_encoded[type_mapping.get(item_type, 4)] = 1
 
     seq_features = []
+    last_avg = None
     for day in sequence:
         avg_price = day['avg_price']
         delta = 0.0 if last_avg is None else avg_price - last_avg
@@ -49,6 +50,7 @@ for slug, content in data.items():
             day['median'],
             day['donch_top'],
             day['donch_bot'],
+            delta,
             ducats,
             vaulted,
             *type_encoded
@@ -67,6 +69,6 @@ y_tensor = torch.tensor(y, dtype=torch.float32)
 print(f"✅ X shape: {X_tensor.shape}")  # Expect (672, 50, 17)
 print("📦 First item sample features:", X_tensor[0][0])
 
-torch.save(X_tensor, "data/training/X_delta.pt")
-torch.save(y_tensor, "data/training/y_delta.pt")
-print("💾 Saved tensors to data/training/X_delta.pt and data/training/y_delta.pt")
+torch.save(X_tensor, "data/tensors/X_delta.pt")
+torch.save(y_tensor, "data/tensors/y_delta.pt")
+print("💾 Saved tensors to data/tensors/X_delta.pt and data/tensors/y_delta.pt")

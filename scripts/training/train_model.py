@@ -4,9 +4,14 @@ from torch.utils.data import DataLoader, TensorDataset, random_split
 import matplotlib.pyplot as plt
 
 
-# Load data
-X = torch.load("data/training/X.pt")  # Shape: (672, 50, 17)
-y = torch.load("data/training/y.pt")  # Shape: (672,)
+X_tensor = "X_delta"
+y_tensor = "y_delta"
+num_features = 18
+num_epochs = 150
+model_name = X_tensor + "_" + y_tensor
+
+X = torch.load(f"data/tensors/{X_tensor}.pt")
+y = torch.load(f"data/tensors/{y_tensor}.pt")
 
 # Train-test split
 dataset = TensorDataset(X, y)
@@ -28,7 +33,7 @@ class LSTMRegressor(nn.Module):
         last_output = out[:, -1, :]  # (batch_size, hidden_dim)
         return self.fc(last_output).squeeze(1)  # (batch_size)
 
-model = LSTMRegressor(input_dim=17, hidden_dim=64, num_layers=2)
+model = LSTMRegressor(input_dim=num_features, hidden_dim=64, num_layers=2)
 
 # Loss and optimizer
 criterion = nn.MSELoss()
@@ -46,7 +51,7 @@ epochs_without_improvement = 0
 train_losses = []
 val_losses = []
 
-for epoch in range(150):  # You can increase this as needed
+for epoch in range(num_epochs):  # You can increase this as needed
     model.train()
     train_loss = 0
     for xb, yb in train_loader:
@@ -78,7 +83,7 @@ for epoch in range(150):  # You can increase this as needed
     if val_loss < best_val_loss:
         best_val_loss = val_loss
         epochs_without_improvement = 0
-        torch.save(model.state_dict(), "models/lstm_regressor.pt")
+        torch.save(model.state_dict(), f"models/{model_name}_lstm_regressor.pt")
         print("✅ New best model saved.")
     else:
         epochs_without_improvement += 1
