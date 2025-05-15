@@ -2,16 +2,25 @@ import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader, TensorDataset, random_split
 import matplotlib.pyplot as plt
+from dotenv import load_dotenv
+import os
 
+load_dotenv()  # This loads variables from .env into os.environ
 
-X_tensor = "X_delta"
-y_tensor = "y_delta"
+tag = os.environ.get('MODEL_TYPE_TAG', 'default_tag')
+tensor_path_tag = os.environ.get('TENSOR_PATH_TAG', 'default_tag')
+model_path_tag = os.environ.get('MODEL_PATH_TAG', 'default_tag')
+
+# Tensors (log-transformed labels)
+X_tensor_path = f'{model_path_tag}{tensor_path_tag}X_{tag}.pt'
+y_tensor_path = f'{model_path_tag}{tensor_path_tag}y_{tag}.pt'
+model_path = f'{model_path_tag}lstm_regressor_{tag}.pt'
+
+X = torch.load(X_tensor_path)
+y = torch.load(y_tensor_path)
+
 num_features = 18
 num_epochs = 150
-model_name = X_tensor + "_" + y_tensor
-
-X = torch.load(f"data/tensors/{X_tensor}.pt")
-y = torch.load(f"data/tensors/{y_tensor}.pt")
 
 # Train-test split
 dataset = TensorDataset(X, y)
@@ -83,7 +92,7 @@ for epoch in range(num_epochs):  # You can increase this as needed
     if val_loss < best_val_loss:
         best_val_loss = val_loss
         epochs_without_improvement = 0
-        torch.save(model.state_dict(), f"models/{model_name}_lstm_regressor.pt")
+        torch.save(model.state_dict(), model_path)
         print("✅ New best model saved.")
     else:
         epochs_without_improvement += 1
@@ -100,10 +109,10 @@ plt.ylabel("Loss")
 plt.title("Training vs Validation Loss")
 plt.legend()
 plt.grid(True)
-plt.savefig("models/loss_curve.png")
+plt.savefig(f"models/loss_curve_{tag}.png")
 plt.show()
 
 
 # Save model
-torch.save(model.state_dict(), "models/lstm_regressor.pt")
+torch.save(model.state_dict(), model_path)
 print("✅ Model saved.")

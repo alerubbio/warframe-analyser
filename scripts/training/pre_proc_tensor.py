@@ -1,10 +1,27 @@
 import json
 import torch
 import numpy as np
+import math
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # This loads variables from .env into os.environ
+
+tag = os.environ.get('FN_TAG', 'default_tag')
+tensor_tag = os.environ.get('TENSOR_TAG', 'default_tag')
+model_tag = os.environ.get('MODEL_TAG', 'default_tag')
+
+# Tensors (log-transformed labels)
+X_tensor_path = f'{tensor_tag}X_{tag}.pt'
+y_tensor_path = f'{tensor_tag}y_{tag}.pt'
+model_path = f'{model_tag}lstm_regressor_{tag}.pt'
+
+num_features = 18
 
 # Load the combined data
 with open('data/training/final_combined_data.json', 'r') as f:
     data = json.load(f)
+
 
 # Define item type mapping (one-hot style: 5 types)
 type_mapping = {
@@ -59,16 +76,24 @@ for slug, content in data.items():
         seq_features.append(daily_features)
 
     X.append(seq_features)
-    y.append(sequence[-1]['avg_price'])  # Predict next-day average price
+
+    # Predict log of next-day average price
+    price = sequence[-1]['avg_price']
+    if price <= 0:
+        continue
+    y.append(math.log(price))
+
+    # Predict next-day average price
+    # y.append(sequence[-1]['avg_price']) 
 
 # Convert to PyTorch tensors
 X_tensor = torch.tensor(X, dtype=torch.float32)
 y_tensor = torch.tensor(y, dtype=torch.float32)
 
 # Save
-print(f"✅ X shape: {X_tensor.shape}")  # Expect (672, 50, 17)
-print("📦 First item sample features:", X_tensor[0][0])
+print(f'✅ X shape: {X_tensor.shape}')  # Expect (672, 50, 18)
+print('📦 First item sample features:', X_tensor[0][0])
 
-torch.save(X_tensor, "data/tensors/X_delta.pt")
-torch.save(y_tensor, "data/tensors/y_delta.pt")
-print("💾 Saved tensors to data/tensors/X_delta.pt and data/tensors/y_delta.pt")
+torch.save(X_tensor, X_tensor_path)
+torch.save(y_tensor, y_tensor_path)
+print(f'💾 Saved tensors to {X_tensor_path} and {y_tensor_path}')
